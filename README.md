@@ -108,6 +108,39 @@
 
 ---
 
-## 🧹 LeetCode Stats
+## 🧮 LeetCode Stats
 
-<p align="
+<p align="center">
+  <a href="https://leetcode.com/Praveen_K_/">
+    <img src="https://leetcard.jacoblin.cool/Praveen_K_?theme=dark&font=Baloo&ext=activity" alt="LeetCode Stats" />
+  </a>
+</p>
+
+---
+
+## ✍️ Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/itspraveenk" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://github.com/Praveenkarmegam" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+  <a href="mailto:kpraveenhosur@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail.png" height="40" />
+  </a>
+  <a href="https://www.instagram.com/Praveen_K_/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+</p>
+
+---
