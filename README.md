@@ -24,7 +24,6 @@
 
 <div align="center">
 
-
 <img src="https://github-readme-stats.vercel.app/api?username=Praveenkarmegam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=400" width="400"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&theme=dark&hide_border=false&layout=compact&langs_count=10" width="400"/>
@@ -36,29 +35,6 @@
 <img src="https://nirzak-streak-stats.vercel.app/?user=Praveenkarmegam&theme=dark&hide_border=false&card_width=800&card_height=160" width="800"/>
 
 </div>
-
-
-
-
-
-
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Praveenkarmegam&theme=gruvbox&margin-w=10&no-bg=true&no-frame=true" />
-</p>
-
----
-
-
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveenkarmegam&theme=react-dark&hide_border=true&area=true" />
-</p>
 
 ---
 
@@ -128,6 +104,7 @@
   <img src="https://skillicons.dev/icons?i=aws" height="50" title="Amazon Web Services"/>
 </p>
 
+
 ---
 
 ## 🧮 LeetCode Stats
@@ -140,6 +117,14 @@
 
 ---
 
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveenkarmegam&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+<!-- 
 ## 🏅 Certifications & Achievements
 
 <p align="left">
@@ -153,8 +138,18 @@
     <img src="https://img.shields.io/badge/Stanford-ML%20Specialization-%23E34F26?style=for-the-badge&logo=googlecolab&logoColor=white" height="28"/>
   </a>
 </p>
+-->
+---
+
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Praveenkarmegam&theme=gruvbox&margin-w=10&no-bg=true&no-frame=true" />
+</p>
 
 ---
+
 
 ## ✍️ Dev Quote
 
