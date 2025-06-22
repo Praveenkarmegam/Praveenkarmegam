@@ -33,7 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&theme=dark&hide_border=false&layout=compact&langs_count=10" height="180" width="360"/>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Praveenkarmegam&theme=github_dark" height="180" width="360"/>
-  <img scr="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Praveenkarmegam&theme=github_dark" height="180" width="360"/>
 
 </div>
 
