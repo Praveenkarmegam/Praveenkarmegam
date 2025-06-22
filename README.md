@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praveen K</h1>
-<h3 align="center">Junior Full Stack Developer | AI/ML & Blockchain Enthusiast</h3>
+<h3 align="center">Junior Full Stack Developer | AI/ML & Enthusiast</h3>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Praveenkarmegam/count.svg?" alt="Profile Views" />
@@ -15,7 +15,7 @@
   <p>🧠 Passionate about <strong>Web Development, AI/ML, Data Science & Blockchain</strong></p>
   <p>📫 Reach me at: <strong>kpraveenhosur@gmail.com</strong></p>
   <p>🌐 Visit my portfolio: <strong>Coming Soon</strong></p>
-  <p>💡 Fun Fact: I build scalable smart apps with clean UIs and logic.</p>
+  <p>🤖 Fun Fact: I combine machine intelligence with real-world devices to craft smarter systems.</p>
 </div>
 
 ---
@@ -121,7 +121,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveenkarmegam&theme=react-dark&hide_border=true&area=true" />
 </p>
 
----
+
 <!-- 
 ## 🏅 Certifications & Achievements
 
