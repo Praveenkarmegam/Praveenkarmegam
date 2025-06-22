@@ -18,98 +18,95 @@
   <p>💡 Fun Fact: I build scalable smart apps with clean UIs and logic.</p>
 </div>
 
+---
 
+## 📊 GitHub Stats
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Praveenkarmegam&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Praveenkarmegam&theme=dark&hide_border=false" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&theme=dark&hide_border=false&layout=compact&langs_count=10" height="180"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats:
+## 📈 GitHub Activity Graph
 
-<table align="center" width="100%">
-  <tr align="center">
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Praveenkarmegam&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-    </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Praveenkarmegam&theme=dark&hide_border=false" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&theme=dark&hide_border=false&layout=compact&langs_count=10" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveenkarmegam&theme=react-dark&hide_border=true&area=true" />
+</p>
 
 ---
 
 ## 💻 Tech Stack
 
+> Hover over icons to see the tool name
+
 ### 🧑‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python" height="50" width="50" title="Python"/>
-  <img src="https://skillicons.dev/icons?i=js" height="50" width="50" title="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="50" width="50" title="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=python" height="50" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=js" height="50" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="50" title="TypeScript"/>
 </p>
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html" height="50" width="50" title="HTML"/>
-  <img src="https://skillicons.dev/icons?i=css" height="50" width="50" title="CSS"/>
-  <img src="https://skillicons.dev/icons?i=react" height="50" width="50" title="React"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50" width="50" title="Next.js"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" width="50" title="Tailwind CSS"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" width="50" title="Bootstrap"/>
-  <img src="https://skillicons.dev/icons?i=mui" height="50" width="50" title="MUI"/>
+  <img src="https://skillicons.dev/icons?i=html" height="50" title="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" height="50" title="CSS"/>
+  <img src="https://skillicons.dev/icons?i=react" height="50" title="React"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" title="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" title="Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" title="Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=mui" height="50" title="Material UI"/>
 </p>
 
 ### 🖥️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" width="50" title="Node.js"/>
-  <img src="https://skillicons.dev/icons?i=express" height="50" width="50" title="Express"/>
-  <img src="https://skillicons.dev/icons?i=django" height="50" width="50" title="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="50" width="50" title="Flask"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" title="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=express" height="50" title="Express.js"/>
+  <img src="https://skillicons.dev/icons?i=django" height="50" title="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="50" title="Flask"/>
 </p>
 
 ### 🧠 AI / ML
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" width="50" title="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="50" width="50" title="Keras"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" width="50" title="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" width="50" title="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" width="50" title="OpenCV"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" title="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="50" title="Keras"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" title="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" title="OpenCV"/>
   <img src="https://img.shields.io/badge/LangChain-0066CC?style=for-the-badge&logoColor=white" height="30"/>
 </p>
 
 ### 🗃️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" width="50" title="MongoDB"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" width="50" title="MySQL"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="50" width="50" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="50" width="50" title="Neo4j"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" title="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" title="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="50" title="Neo4j"/>
 </p>
 
 ### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git" height="50" width="50" title="Git"/>
-  <img src="https://skillicons.dev/icons?i=github" height="50" width="50" title="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=postman" height="50" width="50" title="Postman"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" width="50" title="VSCode"/>
-  <img src="https://skillicons.dev/icons?i=figma" height="50" width="50" title="Figma"/>
+  <img src="https://skillicons.dev/icons?i=git" height="50" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" height="50" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="50" title="Postman"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" title="Visual Studio Code"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="50" title="Figma"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30"/>
 </p>
 
 ### ☁️ Hosting & Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=netlify" height="50" width="50" title="Netlify"/>
-  <img src="https://skillicons.dev/icons?i=vercel" height="50" width="50" title="Vercel"/>
-  <img src="https://cdn.simpleicons.org/render/46E3B7/ffffff" height="50" width="50" title="Render"/>
-  <img src="https://skillicons.dev/icons?i=aws" height="50" width="50" title="AWS"/>
+  <img src="https://skillicons.dev/icons?i=netlify" height="50" title="Netlify"/>
+  <img src="https://skillicons.dev/icons?i=vercel" height="50" title="Vercel"/>
+  <img src="https://cdn.simpleicons.org/render/46E3B7/ffffff" height="50" title="Render"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="50" title="Amazon Web Services"/>
 </p>
 
 ---
 
-
-# 🧮 LeetCode Stats:
+## 🧮 LeetCode Stats
 
 <p align="center">
   <a href="https://leetcode.com/Praveen_K_/">
@@ -119,9 +116,9 @@
 
 ---
 
-# 🏅 Certifications & Achievements:
+## 🏅 Certifications & Achievements
 
-<p align="left", display: inline-block>
+<p align="left">
   <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/" target="_blank">
     <img src="https://img.shields.io/badge/Udemy-Full%20Stack%20Development-%23FF9900?style=for-the-badge&logo=udemy&logoColor=white" height="28"/>
   </a>
@@ -135,7 +132,7 @@
 
 ---
 
-# ✍️ Dev Quote
+## ✍️ Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" width="60%" />
@@ -143,11 +140,11 @@
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/itspraveenk" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
-  <a href="https://github.com/Praveenkarmegam" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="30"/></a>
-  <a href="mailto:kpraveenhosur@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png" height="30"/></a>
-  <a href="https://www.instagram.com/dp_insta_official/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="30"/></a>
+  <a href="https://linkedin.com/in/itspraveenk" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" title="LinkedIn"/></a>
+  <a href="https://github.com/Praveenkarmegam" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="30" title="GitHub"/></a>
+  <a href="mailto:kpraveenhosur@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png" height="30" title="Gmail"/></a>
+  <a href="https://www.instagram.com/dp_insta_official/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="30" title="Instagram"/></a>
 </p>
