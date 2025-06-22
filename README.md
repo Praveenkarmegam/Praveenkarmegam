@@ -23,26 +23,17 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Praveenkarmegam&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="400" />
 
-    <div style="width: 360px; height: 180px; overflow: hidden;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Praveenkarmegam&theme=dark&hide_border=false&include_all_commits=true&count_private=true" style="width: 100%; height: 100%; object-fit: cover;" />
-    </div>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Praveenkarmegam&theme=dark&hide_border=false" width="400" />
 
-    <div style="width: 360px; height: 180px; overflow: hidden;">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Praveenkarmegam&theme=dark&hide_border=false" style="width: 100%; height: 100%; object-fit: cover;" />
-    </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&theme=dark&hide_border=false&layout=compact&langs_count=10" width="400" />
 
-    <div style="width: 360px; height: 180px; overflow: hidden;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&theme=dark&hide_border=false&layout=compact&langs_count=10" style="width: 100%; height: 100%; object-fit: cover;" />
-    </div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Praveenkarmegam&theme=github_dark" width="400" />
 
-    <div style="width: 360px; height: 180px; overflow: hidden;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Praveenkarmegam&theme=github_dark" style="width: 100%; height: 100%; object-fit: cover;" />
-    </div>
-
-  </div>
 </div>
+
 
 
 ---
