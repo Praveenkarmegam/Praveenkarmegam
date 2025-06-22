@@ -32,24 +32,24 @@
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; margin-bottom: 20px;">
 
     <!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=Dharunr257&theme=dark&hide_border=false&include_all_commits=true&count_private=true" 
+    <img src="https://github-readme-stats.vercel.app/api?username=Praveenkarmegam&theme=dark&hide_border=false&include_all_commits=true&count_private=true" 
          alt="GitHub Stats" width="330"/>
 
     <!-- GitHub Streak -->
-    <img src="https://streak-stats.demolab.com/?user=Dharunr257&theme=dark&hide_border=false" 
+    <img src="https://streak-stats.demolab.com/?user=Praveenkarmegam&theme=dark&hide_border=false" 
          alt="GitHub Streak" width="330"/>
 
     <!-- Top Languages -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharunr257&theme=dark&hide_border=false&layout=compact&langs_count=10" 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&theme=dark&hide_border=false&layout=compact&langs_count=10" 
          alt="Top Languages" width="330"/>
 
   </div>
 
   <!-- Optional: Contribution Graph with Theme Toggle -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dharunr257/Dharunr257/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dharunr257/Dharunr257/output/pacman-contribution-graph.svg">
-    <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/Dharunr257/Dharunr257/output/pacman-contribution-graph.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Praveenkarmegam/Praveenkarmegam/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Praveenkarmegam/Praveenkarmegam/output/pacman-contribution-graph.svg">
+    <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/Dharunr257/Praveenkarmegam/output/pacman-contribution-graph.svg" width="100%" />
   </picture>
 
 </div>
