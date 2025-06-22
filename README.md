@@ -26,17 +26,27 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praveenkarmegam&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="360" height="200" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Praveenkarmegam&theme=dark&hide_border=false" width="360" height="200" alt="GitHub Streak" />
-</p>
+  <!-- Three Cards in One Row -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Praveenkarmegam&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+         width="350" height="200" alt="GitHub Stats" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&theme=dark&hide_border=false&layout=compact&langs_count=10" width="360" height="200" alt="Top Languages" />
-</p>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Praveenkarmegam&theme=dark&hide_border=false"
+         width="350" height="200" alt="GitHub Streak" />
+
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&theme=dark&hide_border=false&layout=compact&langs_count=10"
+         width="350" height="200" alt="Top Languages" />
+  </div>
+
+  <br/>
+
+  <!-- Trophies Card -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Praveenkarmegam&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15"
+       width="100%" alt="GitHub Trophies"/>
+
+</div>
 
 ---
 
