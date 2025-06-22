@@ -40,8 +40,6 @@
 
 ## 💻 Tech Stack
 
-> Hover over icons to see the tool name
-
 ### 🧑‍💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python" height="50" title="Python"/>
