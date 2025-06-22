@@ -2,7 +2,7 @@
 <h3 align="center">Junior Full Stack Developer | AI/ML & Blockchain Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Passionate+Developer;AI%2FML+Innovator;Building+Future-Ready+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Hi+I'm+Praveen+K;Junior+Full+Stack+Developer;AI+ML+Blockchain+Enthusiast;Building+Smart+Apps" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -74,23 +74,12 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praveenkarmegam&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&theme=dark&hide_border=false&layout=compact&langs_count=10" width="48%" />
-</p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Praveenkarmegam&theme=dark&hide_border=false" width="60%" />
-</p>
-
-
-</p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praveenkarmegam&theme=tokyonight" />
-
-<p align="center">
-  <a href="https://gist.github.com/Praveenkarmegam/YOUR-GIST-ID">
-    <img src="https://gist.githubusercontent.com/Praveenkarmegam/YOUR-GIST-ID/raw/gistfile1.txt" />
-  </a>
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Praveenkarmegam&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&theme=dark&hide_border=false&layout=compact&langs_count=10" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praveenkarmegam&theme=github_dark" width="45%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Praveenkarmegam&theme=dark&hide_border=false" width="45%" />
+</div>
 
 ---
 
@@ -104,37 +93,4 @@
 
 ## 🧹 LeetCode Stats
 
-<p align="center">
-  <a href="https://leetcode.com/Praveen_K_/">
-    <img src="https://leetcard.jacoblin.cool/Praveen_K_?theme=dark&font=Baloo&ext=activity" alt="LeetCode Stats" />
-  </a>
-</p>
-
----
-
-## ✍️ Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/itspraveenk" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  <a href="https://github.com/Praveenkarmegam" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
-  </a>
-  <a href="mailto:kpraveenhosur@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail.png" height="40" />
-  </a>
-  <a href="https://www.instagram.com/Praveen_K_/">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
-  </a>
-</p>
-
----
+<p align="
