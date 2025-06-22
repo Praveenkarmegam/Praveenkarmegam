@@ -39,7 +39,8 @@
     </td>
     <td>
      
-     <img src="https://github.com/Praveenkarmegam/Praveenkarmegam/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stack?username=Praveenkarmegam&theme=github_dark" />
+
 
     </td>
   </tr>
