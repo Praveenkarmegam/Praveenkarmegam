@@ -24,32 +24,21 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 
-<div align="center">
-
-  <!-- GitHub Cards Row -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; margin-bottom: 20px;">
-
-    <!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=Praveenkarmegam&theme=dark&hide_border=false&include_all_commits=true&count_private=true" 
-         alt="GitHub Stats" width="330"/>
-
-    <!-- GitHub Streak -->
-    <img src="https://streak-stats.demolab.com/?user=Praveenkarmegam&theme=dark&hide_border=false" 
-         alt="GitHub Streak" width="330"/>
-
-    <!-- Top Languages -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&theme=dark&hide_border=false&layout=compact&langs_count=10" 
-         alt="Top Languages" width="330"/>
-
-  </div>
-
-</div>
-
-
-
-
+<table align="center" width="100%">
+  <tr align="center">
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Praveenkarmegam&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=Praveenkarmegam&theme=dark&hide_border=false" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&theme=dark&hide_border=false&layout=compact&langs_count=10" />
+    </td>
+  </tr>
+</table>
 
 ---
 
