@@ -26,31 +26,30 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; padding: 8px 0;">
 
-  <!-- Responsive Card Container -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Dharunr257&theme=dark&hide_border=false&include_all_commits=true&count_private=true" 
+       alt="GitHub Stats" width="340"/>
 
-    <!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=Praveenkarmegam&theme=dark&hide_border=false&include_all_commits=true&count_private=true" 
-         width="340" alt="GitHub Stats" />
+  <!-- GitHub Streak Card -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Dharunr257&theme=dark&hide_border=false" 
+       alt="GitHub Streak" width="340"/>
 
-    <!-- GitHub Streaks -->
-    <img src="https://streak-stats.demolab.com/?user=Praveenkarmegam&theme=dark&hide_border=false" 
-         width="340" alt="GitHub Streak" />
-
-    <!-- Top Languages -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&theme=dark&hide_border=false&layout=compact&langs_count=10" 
-         width="340" alt="Top Languages" />
-  </div>
-
-  <br/>
-
-  <!-- Trophies Card -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Praveenkarmegam&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15" 
-       width="100%" alt="GitHub Trophies" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharunr257&theme=dark&hide_border=false&layout=compact&langs_count=10" 
+       alt="Top Languages" width="340"/>
 
 </div>
+
+<br/>
+
+<!-- Contribution Graph with Dark/Light Theme Toggle -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dharunr257/Dharunr257/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dharunr257/Dharunr257/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Dharunr257/Dharunr257/output/pacman-contribution-graph.svg" width="100%" />
+</picture>
 
 
 ---
