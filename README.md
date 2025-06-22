@@ -26,31 +26,29 @@
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Stats Cards Section -->
 <div align="center">
 
-  <!-- Responsive Container for 3 Cards -->
+  <!-- Responsive Card Container -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
 
-    <!-- GitHub Stats Card -->
-    <img src="https://github-readme-stats.vercel.app/api?username=Praveenkarmegam&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
-         width="340" height="200" alt="GitHub Stats" />
+    <!-- GitHub Stats -->
+    <img src="https://github-readme-stats.vercel.app/api?username=Praveenkarmegam&theme=dark&hide_border=false&include_all_commits=true&count_private=true" 
+         width="340" alt="GitHub Stats" />
 
-    <!-- GitHub Streak Card -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenkarmegam&theme=dark&hide_border=false"
-         width="340" height="200" alt="GitHub Streak" />
+    <!-- GitHub Streaks -->
+    <img src="https://streak-stats.demolab.com/?user=Praveenkarmegam&theme=dark&hide_border=false" 
+         width="340" alt="GitHub Streak" />
 
-    <!-- Top Languages Card -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&theme=dark&hide_border=false&layout=compact&langs_count=10"
-         width="340" height="200" alt="Top Languages" />
-
+    <!-- Top Languages -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&theme=dark&hide_border=false&layout=compact&langs_count=10" 
+         width="340" alt="Top Languages" />
   </div>
 
   <br/>
 
-  <!-- GitHub Trophies Section -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Praveenkarmegam&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15"
-       width="100%" alt="GitHub Trophies"/>
+  <!-- Trophies Card -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Praveenkarmegam&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15" 
+       width="100%" alt="GitHub Trophies" />
 
 </div>
 
