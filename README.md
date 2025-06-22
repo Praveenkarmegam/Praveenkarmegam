@@ -2,7 +2,7 @@
 <h3 align="center">Junior Full Stack Developer | AI/ML & Blockchain Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Passionate+Developer;AI+%2B+ML+Engineer;Building+Future-Ready+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Passionate+Developer;AI%2FML+Innovator;Building+Future-Ready+Apps" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -17,7 +17,7 @@
 - 🎓 Final Year B.Tech in **Artificial Intelligence & Data Science**
 - 💼 Intern at **Zidio Development**
 - 🧠 Interested in **Web Dev**, **AI/ML**, **Data Science**, **Blockchain**
-- 💌 Reach me at: **[kpraveenhosur@gmail.com](mailto:kpraveenhosur@gmail.com)**
+- 💌 Reach me: **[kpraveenhosur@gmail.com](mailto:kpraveenhosur@gmail.com)**
 - 🌐 Portfolio: Coming Soon!
 - 🎯 Fun Fact: I build smart, scalable systems with clean UI & efficient logic.
 </div>
@@ -31,43 +31,47 @@
     <td valign="top" width="50%">
       <h4>👨‍💻 Languages</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=python,js" height="50" width="50" />
+        <img src="https://skillicons.dev/icons?i=python" height="50" width="50"/>
+        <img src="https://skillicons.dev/icons?i=js" height="50" width="50"/>
       </p>
 
       <h4>🌐 Frontend</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,mui,threejs,framer" height="50" width="50" />
+        <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,mui" height="50" width="50"/>
+        <img src="https://skillicons.dev/icons?i=threejs" height="50" width="50"/>
+        <img src="https://skillicons.dev/icons?i=framer" height="50" width="50"/>
       </p>
 
       <h4>🧰 Tools & Platforms</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,netlify" height="50" width="50" />
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30" />
-        <img src="https://img.shields.io/badge/Render-3f3fff?style=for-the-badge&logo=render&logoColor=white" height="30" />
+        <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,netlify" height="50" width="50"/>
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30"/>
+        <img src="https://img.shields.io/badge/Render-3f3fff?style=for-the-badge&logo=render&logoColor=white" height="30"/>
       </p>
     </td>
 
     <td valign="top" width="50%">
       <h4>🧠 AI / ML</h4>
       <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" width="50" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="50" width="50" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" width="50" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" width="50" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" width="50" />
-        <img src="https://img.shields.io/badge/LangChain-0066CC?style=for-the-badge&logoColor=white" height="30" />
-        <img src="https://img.shields.io/badge/LLMs-AI-blue?style=for-the-badge" height="30" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" width="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="50" width="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" width="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" width="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" width="50"/>
+        <img src="https://img.shields.io/badge/LangChain-0066CC?style=for-the-badge&logoColor=white" height="30"/>
+        <img src="https://img.shields.io/badge/LLMs-AI-blue?style=for-the-badge" height="30"/>
       </p>
 
       <h4>🗃️ Databases</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="50" width="50" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="50" width="50" />
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="50" width="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="50" width="50"/>
       </p>
 
       <h4>🖥️ Backend</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,flask" height="50" width="50" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express" height="50" width="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="50" width="50"/>
       </p>
     </td>
   </tr>
@@ -87,15 +91,6 @@
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&theme=dark&hide_border=false&layout=compact&langs_count=10" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dharunr257/Dharunr257/output/pacman-contribution-graph-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dharunr257/Dharunr257/output/pacman-contribution-graph.svg">
-        <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Dharunr257/Dharunr257/output/pacman-contribution-graph.svg" width="100%" />
-      </picture>
     </td>
   </tr>
 </table>
