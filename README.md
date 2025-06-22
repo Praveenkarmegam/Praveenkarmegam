@@ -27,14 +27,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 16px;">
+
+  <!-- GitHub Cards Row -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; margin-bottom: 20px;">
 
     <!-- GitHub Stats -->
     <img src="https://github-readme-stats.vercel.app/api?username=Dharunr257&theme=dark&hide_border=false&include_all_commits=true&count_private=true" 
          alt="GitHub Stats" width="330"/>
 
     <!-- GitHub Streak -->
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Dharunr257&theme=dark&hide_border=false" 
+    <img src="https://streak-stats.demolab.com/?user=Dharunr257&theme=dark&hide_border=false" 
          alt="GitHub Streak" width="330"/>
 
     <!-- Top Languages -->
@@ -42,14 +44,16 @@
          alt="Top Languages" width="330"/>
 
   </div>
+
+  <!-- Optional: Contribution Graph with Theme Toggle -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dharunr257/Dharunr257/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dharunr257/Dharunr257/output/pacman-contribution-graph.svg">
+    <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/Dharunr257/Dharunr257/output/pacman-contribution-graph.svg" width="100%" />
+  </picture>
+
 </div>
 
-<!-- Contribution Graph with Dark/Light Theme Toggle -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dharunr257/Dharunr257/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dharunr257/Dharunr257/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Dharunr257/Dharunr257/output/pacman-contribution-graph.svg" width="100%" />
-</picture>
 
 
 ---
