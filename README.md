@@ -23,14 +23,21 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="…stats…?username=…&card_width=400" width="400"/>
-<img src="…streak-stats…?user=…&card_width=400&card_height=150" width="400"/>
+
+<!-- Row 1 -->
+<img src="https://github-readme-stats.vercel.app/api?username=Praveenkarmegam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=400" width="400"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Praveenkarmegam&theme=dark&hide_border=false&card_width=400&card_height=180" width="400"/>
 
 <br><br>
 
-<img src="…top-langs…?username=…&theme=dark&card_width=400" width="400"/>
-<img src="…profile-summary-cards/api/cards/stats?username=…&theme=github_dark" width="400"/>
+<!-- Row 2 -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&theme=dark&hide_border=false&layout=compact&langs_count=10" width="400"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Praveenkarmegam&theme=github_dark" width="400"/>
+
 </div>
+
 
 
 
