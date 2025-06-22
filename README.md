@@ -31,10 +31,9 @@
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=Praveenkarmegam&theme=dark&hide_border=false&card_width=400&card_height=180" width="400"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Praveenkarmegam&theme=github_dark" width="400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Praveenkarmegam&theme=github_dark" width="400"/>
 
 </div>
-
 
 
 
