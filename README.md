@@ -20,7 +20,6 @@
 
 ---
 
----
 
 ## 📊 GitHub Stats
 
@@ -124,7 +123,7 @@
 
 # 🏅 Certifications & Achievements:
 
-<p align="left">
+<p align="left", display: inline-block>
   <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/" target="_blank">
     <img src="https://img.shields.io/badge/Udemy-Full%20Stack%20Development-%23FF9900?style=for-the-badge&logo=udemy&logoColor=white" height="28"/>
   </a>
