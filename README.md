@@ -38,9 +38,8 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&theme=dark&hide_border=false&layout=compact&langs_count=10" height="180"/>
     </td>
     <td>
-      ![GitHub Snake](https://github.com/Praveenkarmegam/Praveenkarmegam/blob/output/github-contribution-grid-snake.svg)
-
-     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Praveenkarmegam&theme=dark&hide_border=false&layout=compact&langs_count=10" height="180" />
+     
+     <img src="https://github.com/Praveenkarmegam/Praveenkarmegam/blob/output/github-contribution-grid-snake.svg" />
 
     </td>
   </tr>
