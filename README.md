@@ -38,7 +38,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&theme=dark&hide_border=false&layout=compact&langs_count=10" height="180"/>
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stack?username=Praveenkarmegam&theme=github_dark" alt="GitHub Stack Card"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Praveenkarmegam&theme=github_dark" />
     </td>
   </tr>
 </table>
