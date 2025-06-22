@@ -82,25 +82,15 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=Praveenkarmegam&theme=dark&hide_border=false" width="60%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Praveenkarmegam&theme=github_dark" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praveenkarmegam&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Praveenkarmegam&theme=github_dark" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Praveenkarmegam&theme=github_dark" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Praveenkarmegam&theme=darkhub&row=1&column=6" />
 </p>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praveenkarmegam&theme=tokyonight" />
 
+<p align="center">
+  <a href="https://gist.github.com/Praveenkarmegam/YOUR-GIST-ID">
+    <img src="https://gist.githubusercontent.com/Praveenkarmegam/YOUR-GIST-ID/raw/gistfile1.txt" />
+  </a>
+</p>
 
 ---
 
