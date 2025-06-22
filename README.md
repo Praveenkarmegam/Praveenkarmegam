@@ -24,18 +24,18 @@
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=Praveenkarmegam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=400" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Praveenkarmegam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=400" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&theme=dark&hide_border=false&layout=compact&langs_count=10" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&theme=dark&hide_border=false&layout=compact&langs_count=10" width="400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Praveenkarmegam&theme=github_dark" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Praveenkarmegam&theme=github_dark" width="400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Praveenkarmegam&theme=github_dark" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Praveenkarmegam&theme=github_dark" width="400"/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Praveenkarmegam&theme=dark&hide_border=false&card_width=400&card_height=180" width="400"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Praveenkarmegam&theme=dark&hide_border=false" />
 
 </div>
+
 
 
 
