@@ -79,7 +79,28 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&theme=dark&hide_border=false&layout=compact&langs_count=10" width="45%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praveenkarmegam&theme=github_dark" width="45%" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Praveenkarmegam&theme=dark&hide_border=false" width="45%" />
+
+<p align="center">
+  <a href="https://stackoverflow.com/users/YOUR_ID">
+    <img src="https://stackoverflow-badge.vercel.app/?userID=YOUR_ID" alt="Stack Overflow Stats" />
+  </a>
+</p>
+
+ <p align="center">
+  <a href="https://open.spotify.com/user/YOUR_ID">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" />
+  </a>
+</p>
+ 
 </div>
+
+<!-- Replace YOUR_CHANNEL_ID -->
+<a href="https://www.youtube.com/@YOUR_CHANNEL">
+  <img src="https://github-readme-youtube-stats.vercel.app/api/channel-stats?channelid=YOUR_CHANNEL_ID&theme=dark" />
+</a>
+<p align="center">
+  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Praveenkarmegam&repo=REPO_NAME&theme=dark" />
+</p>
 
 ---
 
@@ -87,6 +108,15 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveenkarmegam&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Praveenkarmegam" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/uptimerobot/status/m789240123-1234567890abcdef?style=flat-square&color=green" />
+</p>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Praveenkarmegam&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
