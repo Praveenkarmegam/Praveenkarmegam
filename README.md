@@ -16,7 +16,7 @@
 
 - 🎓 Final Year B.Tech in **Artificial Intelligence & Data Science**
 - 💼 Intern at **Zidio Development**
-- 🧠 Interested in **Web Dev**, **AI/ML**, **Data Science**, **Blockchain**
+- 🧠 Passionate about **Web Dev**, **AI/ML**, **Data Science**, and **Blockchain**
 - 💌 Reach me: **[kpraveenhosur@gmail.com](mailto:kpraveenhosur@gmail.com)**
 - 🌐 Portfolio: Coming Soon!
 - 🎯 Fun Fact: I build smart, scalable systems with clean UI & efficient logic.
@@ -26,60 +26,69 @@
 
 ## 🧠 Tech Stack
 
-<table width="100%">
+<div align="center">
+
+<table>
   <tr>
-    <td valign="top" width="50%">
-      <h4>👨‍💻 Languages</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=python" height="50" width="50"/>
-        <img src="https://skillicons.dev/icons?i=js" height="50" width="50"/>
-      </p>
-
-      <h4>🌐 Frontend</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,mui" height="50" width="50"/>
-        <img src="https://skillicons.dev/icons?i=threejs" height="50" width="50"/>
-        <img src="https://skillicons.dev/icons?i=framer" height="50" width="50"/>
-      </p>
-
-      <h4>🧰 Tools & Platforms</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,netlify" height="50" width="50"/>
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30"/>
-        <img src="https://img.shields.io/badge/Render-3f3fff?style=for-the-badge&logo=render&logoColor=white" height="30"/>
-      </p>
+    <td><strong>👨‍💻 Languages</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,js" height="45" />
     </td>
-
-    <td valign="top" width="50%">
-      <h4>🧠 AI / ML</h4>
-      <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" width="50"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="50" width="50"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" width="50"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" width="50"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" width="50"/>
-        <img src="https://img.shields.io/badge/LangChain-0066CC?style=for-the-badge&logoColor=white" height="30"/>
-        <img src="https://img.shields.io/badge/LLMs-AI-blue?style=for-the-badge" height="30"/>
-      </p>
-
-      <h4>🗃️ Databases</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="50" width="50"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="50" width="50"/>
-      </p>
-
-      <h4>🖥️ Backend</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=nodejs,express" height="50" width="50"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="50" width="50"/>
-      </p>
+  </tr>
+  <tr>
+    <td><strong>🌐 Frontend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,mui,threejs,framer" height="45" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🧠 AI / ML</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="45" />
+      <img src="https://img.shields.io/badge/LangChain-0066CC?style=for-the-badge&logoColor=white" height="30" />
+      <img src="https://img.shields.io/badge/LLMs-AI-blue?style=for-the-badge" height="30" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🗃️ Databases</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="45" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🖥️ Backend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express" height="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="45" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🧰 Tools</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" height="45" />
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>☁️ Hosting</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=netlify" height="45" />
+      <img src="https://img.shields.io/badge/Render-3f3fff?style=for-the-badge&logo=render&logoColor=white" height="30" />
+      <img src="https://skillicons.dev/icons?i=aws" height="45" />
     </td>
   </tr>
 </table>
 
+</div>
+
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <table align="center" width="100%">
   <tr align="center">
@@ -94,6 +103,24 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveenkarmegam&theme=react-dark&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+## 🧩 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/praveenkdata/">
+    <img src="https://leetcard.jacoblin.cool/praveenkdata?theme=dark&font=Baloo&ext=activity" alt="LeetCode Stats" />
+  </a>
+</p>
 
 ---
 
