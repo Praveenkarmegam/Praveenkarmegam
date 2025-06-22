@@ -20,35 +20,22 @@
 
 
 
+
+
 ---
 
 ## 📊 GitHub Stats
 
-<style>
-  .stats-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 1rem;
-  }
-  .stats-card {
-    width: 330px;
-    height: 180px;
-  }
+<div align="center">
 
-  @media (max-width: 768px) {
-    .stats-card {
-      width: 100%;
-      max-width: 330px;
-    }
-  }
-</style>
+<img src="https://github-readme-stats.vercel.app/api?username=Praveenkarmegam&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="330px" height="180px" alt="GitHub Stats"/>
 
-<div class="stats-container">
-  <img class="stats-card" src="https://github-readme-stats.vercel.app/api?username=Praveenkarmegam&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img class="stats-card" src="https://nirzak-streak-stats.vercel.app/?user=Praveenkarmegam&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <img class="stats-card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&theme=dark&hide_border=false&layout=compact&langs_count=10" alt="Top Languages" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Praveenkarmegam&theme=dark&hide_border=false" width="330px" height="180px" alt="GitHub Streak"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&theme=dark&hide_border=false&layout=compact&langs_count=10" width="330px" height="180px" alt="Top Languages"/>
+
 </div>
+
 
 ---
 
