@@ -26,20 +26,19 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 1020px;">
-
-    <img src="https://github-readme-stats.vercel.app/api?username=Praveenkarmegam&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
-         width="330" height="180" alt="GitHub Stats" />
-
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Praveenkarmegam&theme=dark&hide_border=false"
-         width="330" height="180" alt="GitHub Streak" />
-
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&theme=dark&hide_border=false&layout=compact&langs_count=10"
-         width="330" height="180" alt="Top Languages" />
-
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Praveenkarmegam&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="330" height="180" />
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Praveenkarmegam&theme=dark&hide_border=false" width="330" height="180" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&theme=dark&hide_border=false&layout=compact&langs_count=10" width="330" height="180" />
+    </td>
+  </tr>
+</table>
 
 ---
 
