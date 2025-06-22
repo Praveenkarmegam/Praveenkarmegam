@@ -26,83 +26,62 @@
 
 ## 🧠 Tech Stack
 
-<div align="center">
+### 👨‍💻 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="45"/>
+  <img src="https://skillicons.dev/icons?i=js" height="45"/>
+</p>
 
-<table>
-  <tr>
-    <td><strong>👨‍💻 Languages</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=python,js" height="45" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>🌐 Frontend</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,mui,threejs,framer" height="45" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>🧠 AI / ML</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="45" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="45" />
-      <img src="https://img.shields.io/badge/LangChain-0066CC?style=for-the-badge&logoColor=white" height="30" />
-      <img src="https://img.shields.io/badge/LLMs-AI-blue?style=for-the-badge" height="30" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>🗃️ Databases</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="45" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="45" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>🖥️ Backend</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express" height="45" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="45" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>🧰 Tools</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" height="45" />
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>☁️ Hosting</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=netlify" height="45" />
-      <img src="https://img.shields.io/badge/Render-3f3fff?style=for-the-badge&logo=render&logoColor=white" height="30" />
-      <img src="https://skillicons.dev/icons?i=aws" height="45" />
-    </td>
-  </tr>
-</table>
+### 🌐 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,mui,threejs,framer" height="45"/>
+</p>
 
-</div>
+### 🧠 AI / ML
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="45"/>
+  <img src="https://img.shields.io/badge/LangChain-0066CC?style=for-the-badge&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/LLMs-AI-blue?style=for-the-badge" height="28"/>
+</p>
+
+### 🗃️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="45"/>
+</p>
+
+### 🖥️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="45"/>
+</p>
+
+### 🧰 Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" height="45"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28"/>
+</p>
+
+### ☁️ Hosting
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=netlify" height="45"/>
+  <img src="https://img.shields.io/badge/Render-3f3fff?style=for-the-badge&logo=render&logoColor=white" height="28"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="45"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<table align="center" width="100%">
-  <tr align="center">
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Praveenkarmegam&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-    </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Praveenkarmegam&theme=dark&hide_border=false" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&theme=dark&hide_border=false&layout=compact&langs_count=10" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Praveenkarmegam&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Praveenkarmegam&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&theme=dark&hide_border=false&layout=compact&langs_count=10" />
+</p>
 
 ---
 
