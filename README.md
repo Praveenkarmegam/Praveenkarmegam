@@ -26,23 +26,23 @@
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; padding: 8px 0;">
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 16px;">
 
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Dharunr257&theme=dark&hide_border=false&include_all_commits=true&count_private=true" 
-       alt="GitHub Stats" width="340"/>
+    <!-- GitHub Stats -->
+    <img src="https://github-readme-stats.vercel.app/api?username=Dharunr257&theme=dark&hide_border=false&include_all_commits=true&count_private=true" 
+         alt="GitHub Stats" width="330"/>
 
-  <!-- GitHub Streak Card -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Dharunr257&theme=dark&hide_border=false" 
-       alt="GitHub Streak" width="340"/>
+    <!-- GitHub Streak -->
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Dharunr257&theme=dark&hide_border=false" 
+         alt="GitHub Streak" width="330"/>
 
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharunr257&theme=dark&hide_border=false&layout=compact&langs_count=10" 
-       alt="Top Languages" width="340"/>
+    <!-- Top Languages -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharunr257&theme=dark&hide_border=false&layout=compact&langs_count=10" 
+         alt="Top Languages" width="330"/>
 
+  </div>
 </div>
-
-<br/>
 
 <!-- Contribution Graph with Dark/Light Theme Toggle -->
 <picture>
