@@ -24,13 +24,8 @@
 
 <div align="center">
 
-<!-- Row 1 -->
 <img src="https://github-readme-stats.vercel.app/api?username=Praveenkarmegam&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180" width="400"/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=Praveenkarmegam&theme=dark&hide_border=false"  height="180" width="400"/>
-
-<br/>
-
-<!-- Row 2 -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&theme=dark&hide_border=false&layout=compact&langs_count=10"  height="180" width="400"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Praveenkarmegam&theme=github_dark"  height="180" width="400"/>
 
