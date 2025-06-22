@@ -38,7 +38,8 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&theme=dark&hide_border=false&layout=compact&langs_count=10" height="180"/>
     </td>
     <td>
-      <img src="https://github-metrics.vercel.app/api?username=Praveenkarmegam&theme=react&base=header,activity,community,repositories&config.timezone=Asia%2FCalcutta" height="180"/>
+     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Praveenkarmegam&theme=dark&hide_border=false&layout=compact&langs_count=10" height="180" />
+
     </td>
   </tr>
 </table>
