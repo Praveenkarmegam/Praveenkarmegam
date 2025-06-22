@@ -5,9 +5,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Passionate+Developer;AI%2FML+Innovator;Building+Future-Ready+Apps" alt="Typing SVG" />
 </p>
 
-<div align="center">
+<p align="center">
   <img src="https://profile-counter.glitch.me/Praveenkarmegam/count.svg?" alt="Profile Views" />
-</div>
+</p>
 
 ---
 
@@ -17,7 +17,7 @@
 - 🎓 Final Year B.Tech in **Artificial Intelligence & Data Science**
 - 💼 Intern at **Zidio Development**
 - 🧠 Passionate about **Web Dev**, **AI/ML**, **Data Science**, and **Blockchain**
-- 💌 Reach me: **[kpraveenhosur@gmail.com](mailto:kpraveenhosur@gmail.com)**
+- 📬 Reach me: **[kpraveenhosur@gmail.com](mailto:kpraveenhosur@gmail.com)**
 - 🌐 Portfolio: Coming Soon!
 - 🎯 Fun Fact: I build smart, scalable systems with clean UI & efficient logic.
 </div>
@@ -28,13 +28,12 @@
 
 ### 👨‍💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="45"/>
-  <img src="https://skillicons.dev/icons?i=js" height="45"/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts" height="45"/>
 </p>
 
 ### 🌐 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,mui,threejs,framer" height="45"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,bootstrap,tailwind,mui,threejs,framer,redux" height="45"/>
 </p>
 
 ### 🧠 AI / ML
@@ -48,7 +47,7 @@
   <img src="https://img.shields.io/badge/LLMs-AI-blue?style=for-the-badge" height="28"/>
 </p>
 
-### 🗃️ Databases
+### 📃 Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="45"/>
@@ -56,21 +55,19 @@
 
 ### 🖥️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" height="45"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="45"/>
 </p>
 
-### 🧰 Tools
+### 🛠️ Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" height="45"/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,jira" height="45"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28"/>
 </p>
 
-### ☁️ Hosting
+### ☁️ Hosting & Deployment
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=netlify" height="45"/>
-  <img src="https://img.shields.io/badge/Render-3f3fff?style=for-the-badge&logo=render&logoColor=white" height="28"/>
-  <img src="https://skillicons.dev/icons?i=aws" height="45"/>
+  <img src="https://skillicons.dev/icons?i=netlify,vercel,render,aws" height="45"/>
 </p>
 
 ---
@@ -78,26 +75,28 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praveenkarmegam&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Praveenkarmegam&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&theme=dark&hide_border=false&layout=compact&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Praveenkarmegam&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&theme=dark&hide_border=false&layout=compact&langs_count=10" width="48%" />
+</p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Praveenkarmegam&theme=dark&hide_border=false" width="60%" />
 </p>
 
 ---
 
-## 📈 GitHub Activity Graph
+## 📊 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveenkarmegam&theme=react-dark&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveenkarmegam&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---
 
-## 🧩 LeetCode Stats
+## 🧹 LeetCode Stats
 
 <p align="center">
-  <a href="https://leetcode.com/praveenkdata/">
-    <img src="https://leetcard.jacoblin.cool/praveenkdata?theme=dark&font=Baloo&ext=activity" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/Praveen_K_/">
+    <img src="https://leetcard.jacoblin.cool/Praveen_K_?theme=dark&font=Baloo&ext=activity" alt="LeetCode Stats" />
   </a>
 </p>
 
@@ -123,4 +122,9 @@
   <a href="mailto:kpraveenhosur@gmail.com">
     <img src="https://img.icons8.com/fluency/48/gmail.png" height="40" />
   </a>
+  <a href="https://www.instagram.com/Praveen_K_/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
 </p>
+
+---
