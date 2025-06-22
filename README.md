@@ -80,44 +80,31 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praveenkarmegam&theme=github_dark" width="45%" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Praveenkarmegam&theme=dark&hide_border=false" width="45%" />
 
-<p align="center">
-  <a href="https://stackoverflow.com/users/YOUR_ID">
-    <img src="https://stackoverflow-badge.vercel.app/?userID=YOUR_ID" alt="Stack Overflow Stats" />
-  </a>
-</p>
+## 🏅 Certifications & Achievements
 
- <p align="center">
-  <a href="https://open.spotify.com/user/YOUR_ID">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" />
-  </a>
-</p>
- 
-</div>
+<p align="left">
 
-<!-- Replace YOUR_CHANNEL_ID -->
-<a href="https://www.youtube.com/@YOUR_CHANNEL">
-  <img src="https://github-readme-youtube-stats.vercel.app/api/channel-stats?channelid=YOUR_CHANNEL_ID&theme=dark" />
-</a>
-<p align="center">
-  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Praveenkarmegam&repo=REPO_NAME&theme=dark" />
-</p>
+✅ <img src="https://img.shields.io/badge/Full%20Stack%20Web%20Development-Udemy-%23FF9900?style=for-the-badge&logo=udemy&logoColor=white" height="28"/>
+<br/>
 
----
+✅ <img src="https://img.shields.io/badge/AI%20For%20Everyone-Coursera-%2300A8E8?style=for-the-badge&logo=coursera&logoColor=white" height="28"/>
+<br/>
+
+✅ <img src="https://img.shields.io/badge/Machine%20Learning%20Specialization-Stanford-%23E34F26?style=for-the-badge&logo=googlecolab&logoColor=white" height="28"/>
+<br/>
+
+✅ <img src="https://img.shields.io/badge/GitHub%20Campus%20Expert-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" height="28"/>
+<br/>
+
+✅ <img src="https://img.shields.io/badge/Data%20Analytics
+
 
 ## 📊 GitHub Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveenkarmegam&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Praveenkarmegam" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/uptimerobot/status/m789240123-1234567890abcdef?style=flat-square&color=green" />
-</p>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Praveenkarmegam&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" />
-</p>
+
 
 ---
 
