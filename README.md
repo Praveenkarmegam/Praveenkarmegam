@@ -4,6 +4,9 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/Praveenkarmegam/count.svg?" alt="Profile Views" />
 </div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Praveenkarmegam&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
+</p>
 
 
 ---
