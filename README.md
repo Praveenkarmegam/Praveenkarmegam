@@ -5,7 +5,7 @@
   <img src="https://profile-counter.glitch.me/Praveenkarmegam/count.svg?" alt="Profile Views" />
 </div>
 <p align="center">
-  <img src="https://hits.sh/github.com/Praveenkarmegam.svg?style=for-the-badge&label=Profile%20Views&color=blue" alt="Profile Views" />
+  <img src="https://hits.sh/github.com/Praveenkarmegam.svg?label=Profile%20Views&color=1F8ACB&logo=github&style=plastic" alt="Profile Views"/>
 </p>
 
 
