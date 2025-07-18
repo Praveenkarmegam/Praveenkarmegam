@@ -8,7 +8,15 @@
 <p align="center">
   <img src="https://hits.sh/github.com/Praveenkarmegam.svg?label=Visitors&color=blue&logo=github" alt="Profile Views"/>
 </p>
-![Profile Views](https://raw.githubusercontent.com/Praveenkarmegam/Praveenkarmegam/main/profile-views.svg)
+
+<p align="center">
+  <img src="https://hits.sh/github.com/Praveenkarmegam.svg?label=Profile%20Views&style=flat-square&color=blue" />
+</p>
+<p align="center">
+  <img src="https://hits.sh/github.com/Praveenkarmegam.svg?label=&color=blue&style=flat-square" />
+</p>
+
+
 
 
 
