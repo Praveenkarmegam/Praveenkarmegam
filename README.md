@@ -14,7 +14,7 @@
   <p>🎓 Final Year B.Tech in <strong>Artificial Intelligence & Data Science</strong></p>
   <p>🧠 Passionate about <strong>Web Development, AI/ML, Data Science & Blockchain</strong></p>
   <p>📫 Reach me at: <strong>kpraveenhosur@gmail.com</strong></p>
-  <p>🌐 Visit my portfolio: <strong>https://praveenkarmegam.github.io/my-portfolio/</strong></p>
+  <p>🌐 Visit my portfolio: <strong>https://bit.ly/PraveenProfile</strong></p>
   <p>🤖 Fun Fact: I combine machine intelligence with real-world devices to craft smarter systems.</p>
 </div>
 
