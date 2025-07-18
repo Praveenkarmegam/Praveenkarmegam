@@ -4,9 +4,17 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/Praveenkarmegam/count.svg?" alt="Profile Views" />
 </div>
+
 <p align="center">
   <img src="https://hits.sh/github.com/Praveenkarmegam.svg?label=Profile%20Views&color=1F8ACB&logo=github&style=plastic" alt="Profile Views"/>
 </p>
+<p align="center">
+  <img src="https://hits.sh/github.com/Praveenkarmegam.svg?label=Visitors&color=blue&logo=github" alt="Profile Views"/>
+</p>
+<p align="center">
+  <img src="https://hits.sh/github.com/Praveenkarmegam.svg?label=👀%20Profile%20Views&color=ff69b4&style=plastic" />
+</p>
+
 
 
 
