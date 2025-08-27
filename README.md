@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Praveen K</h1>
 <h3 align="center">Junior Full Stack Developer | AI/ML & Enthusiast</h3>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Praveenkarmegam/count.svg?" alt="Profile Views" />
-</div>
-
 <p align="center">
   <img src="https://hits.sh/github.com/Praveenkarmegam.svg?label=Profile%20Views&style=flat-square&color=blue" />
 </p>
