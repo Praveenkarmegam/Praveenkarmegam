@@ -16,7 +16,7 @@
 <div>
   <img align="right" src="https://img.freepik.com/premium-vector/artificial-intelligence-concept-illustration_701961-2168.jpg" alt="Tech Illustration" width="360"/>
 
-  <p>🔭 I’m currently an <strong>Intern at Zidio Development</strong></p>
+  <p>🔭 I’m currently working as <strong>Part Time at Studix Solution</strong></p>
   <p>🎓 Final Year B.Tech in <strong>Artificial Intelligence & Data Science</strong></p>
   <p>🧠 Passionate about <strong>Web Development, AI/ML, Data Science & Blockchain</strong></p>
   <p>📫 Reach me at: <strong>kpraveenhosur@gmail.com</strong></p>
