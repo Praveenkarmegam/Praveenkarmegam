@@ -293,7 +293,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarme
 ## 💡 Fun Fact
 
 > 💡 **Code. Learn. Build. Repeat.**
-```
 
 <div align="center">
 
