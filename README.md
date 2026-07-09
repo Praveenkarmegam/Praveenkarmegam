@@ -31,142 +31,19 @@ AI Engineer • Machine Learning • Generative AI • Full Stack Developer
 
 ---
 
-# 💻 Tech Stack
-
-<table align="center">
-
-<tr>
-
-<td align="center" width="33%">
-
-<h3>💻 Programming</h3>
-
-<img src="https://skillicons.dev/icons?i=python,javascript" />
-
-</td>
-
-<td align="center" width="33%">
-
-<h3>🌐 Frontend</h3>
-
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-
-</td>
-
-<td align="center" width="33%">
-
-<h3>⚙️ Backend</h3>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
-
-<br><br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="45"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<h3>🗄️ Database</h3>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-
-<br><br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="45"/>
-
-</td>
-
-<td align="center">
-
-<h3>🧠 AI & Machine Learning</h3>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45"/>
-
-<br><br>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="45"/>
-
-</td>
-
-<td align="center">
-
-<h3>🤖 Generative AI</h3>
-
-<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Prompt_Engineering-orange?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/LLMs-blue?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/AI_Agents-purple?style=for-the-badge"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<h3>📊 Data Analytics</h3>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-</td>
-
-<td align="center">
-
-<h3>🛠️ Tools</h3>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-
-</td>
-
-<td align="center">
-
-<h3>☁️ Cloud</h3>
-
-<img src="https://skillicons.dev/icons?i=aws"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
+## 💻 Tech Stack
+
+| 💻 Programming Languages | 🌐 Frontend | ⚙️ Backend |
+|:------------------------:|:-----------:|:----------:|
+| <p align="center"><img src="https://skillicons.dev/icons?i=python,javascript"/></p> | <p align="center"><img src="https://skillicons.dev/icons?i=html,css,react"/></p> | <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,django,flask"/></p> |
+
+| 🗄️ Database | 🧠 AI / ML | 🤖 Generative AI |
+|:-----------:|:----------:|:----------------:|
+| <p align="center"><img src="https://skillicons.dev/icons?i=mysql,mongodb"/></p><p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="45"/></p> | <p align="center"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/></p><p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="45"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45"/></p> | <p align="center"><img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/></p><p align="center"><img src="https://img.shields.io/badge/LLMs-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/AI_Agents-purple?style=for-the-badge"/></p> |
+
+| 📊 Data Analytics | 🛠️ Tools | ☁️ Cloud |
+|:-----------------:|:---------:|:--------:|
+| <p align="center"><img src="https://skillicons.dev/icons?i=pandas,numpy"/></p><p align="center"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/></p> | <p align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/></p><p align="center"><img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/></p> | <p align="center"><img src="https://skillicons.dev/icons?i=aws"/></p><p align="center"><img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></p> |
 # 🧮 LeetCode Stats
 
 <p align="center">
