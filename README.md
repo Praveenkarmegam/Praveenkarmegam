@@ -194,27 +194,6 @@ width="48"/>
 | Neural Networks | RAG | Deployment |
 
 
-## 📚 Currently Learning
-
-```python
-learning = [
-    "Advanced Machine Learning",
-    "Large Language Models",
-    "LangGraph",
-    "AI Agents",
-    "MLOps",
-    "Cloud Deployment"
-]
-
-goal = "AI/ML Engineer 🚀"
-
-print("Currently Learning:")
-for topic in learning:
-    print(f"✔ {topic}")
-
-print(f"\nGoal: {goal}")
-```
-
 ## 📈 GitHub Stats
 
 <p align="center">
