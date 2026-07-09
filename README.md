@@ -5,7 +5,7 @@ AI Engineer • Machine Learning • Generative AI • Full Stack Developer
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Praveenkarmegam&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Praveenkarmegam&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -24,92 +24,261 @@ AI Engineer • Machine Learning • Generative AI • Full Stack Developer
 
 ☁️ Interested in **Cloud Computing, AI Agents & Intelligent Systems**
 
-🌐 **Portfolio:** https://kpraveen.netlify.app
+🌐 Portfolio:
+**https://kpraveen.netlify.app**
 
 <br clear="right"/>
-
----
 
 ## 🚀 Current Focus
 
 - 🤖 Building AI & LLM Applications
 - 🧠 Learning AI Agents & Multi-Agent Systems
-- 📊 Data Analytics & Machine Learning
+- 📊 Machine Learning & Data Analytics
 - ☁️ Cloud Deployment
-- 📚 Solving DSA & Improving Problem Solving
+- 📚 Improving DSA & Problem Solving
 
-## 📚 Currently Learning
+## 💻 Tech Stack
 
-```python
-class PraveenK:
-    def __init__(self):
-        self.learning = [
-            "Advanced Machine Learning",
-            "Large Language Models",
-            "AI Agents",
-            "LangGraph",
-            "Cloud Deployment",
-            "MLOps"
-        ]
+<table align="center" width="100%">
 
-        self.interests = [
-            "Artificial Intelligence",
-            "Computer Vision",
-            "Natural Language Processing",
-            "Generative AI",
-        ]
+<tr>
 
-        self.goal = "AI/ML Engineer 🚀"
+<td align="center" width="33.33%">
 
-    def __str__(self):
-        return f"""
-Learning:
-{self.learning}
+### 💻 Languages
 
-Interests:
-{self.interests}
+<img src="https://skillicons.dev/icons?i=python,javascript" />
 
-Goal:
-{self.goal}
-"""
+</td>
 
-print(PraveenK())
+<td align="center" width="33.33%">
+
+### 🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+
+</td>
+
+<td align="center" width="33.33%">
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" />
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+
+<br><br>
+
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg"
+width="48"/>
+
+</td>
+
+<td align="center">
+
+### 🧠 AI / ML
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="48"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"/>
+
+</td>
+
+<td align="center">
+
+### 🤖 Generative AI
+
+<img src="https://img.shields.io/badge/LangChain-0052CC?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/LLMs-16A34A?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/RAG-F97316?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=for-the-badge"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 📊 Data
+
+<img src="https://skillicons.dev/icons?i=numpy"/>
+
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+</td>
+
+<td align="center">
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+
+</td>
+
+<td align="center">
+
+### ☁️ Cloud
+
+<img src="https://skillicons.dev/icons?i=aws"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+
+</td>
+
+</tr>
+
+</table>
+
+## 📌 Areas of Expertise
+
+- 🧠 Machine Learning
+- 🤖 Deep Learning
+- 👁️ Computer Vision
+- 💬 Natural Language Processing
+- 🔥 Generative AI
+- 🧩 Prompt Engineering
+- ⚡ AI Agents
+- 🔗 Retrieval-Augmented Generation (RAG)
+- 📊 Data Analytics
+- 🌐 Full Stack Development
+- ☁️ Cloud Deployment
+
+## 🏆 Featured Skills
+
+| AI & ML | Generative AI | Full Stack |
+|:--------:|:-------------:|:----------:|
+| Machine Learning | LLM Applications | MERN Stack |
+| Deep Learning | AI Agents | REST APIs |
+| Computer Vision | LangChain | Authentication |
+| NLP | Prompt Engineering | CRUD Applications |
+| Neural Networks | RAG | Deployment |
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=Praveenkarmegam&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170"
+src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenkarmegam&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Praveenkarmegam&theme=tokyonight&row=2&column=4&no-frame=true"/>
+
+</p>
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveenkarmegam&theme=tokyo-night"/>
+
+</p>
+
+## 🧮 LeetCode Stats
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Praveen_K_/">
+
+<img src="https://leetcard.jacoblin.cool/Praveen_K_?theme=dark&font=Baloo&ext=contest"/>
+
+</a>
+
+</p>
+## 💬 Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="mailto:kpraveenhosur@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/itspraveenk">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Praveenkarmegam">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://kpraveen.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</p>
+
+## 💡 Fun Fact
+
+```cpp
+while(alive)
+{
+    Learn();
+    Build();
+    Improve();
+    Repeat();
+}
 ```
-
-<p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=Praveenkarmegam&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img height="170"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenkarmegam&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="45%"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Praveenkarmegam&theme=tokyonight&row=2&column=4&no-frame=true"/>
-</p>
-
-<p align="center">
-  <a href="mailto:kpraveenhosur@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/itspraveenk">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-
-  <a href="https://github.com/Praveenkarmegam">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-
-  <a href="https://kpraveen.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
 
 <div align="center">
 
