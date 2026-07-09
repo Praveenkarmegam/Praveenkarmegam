@@ -197,40 +197,22 @@ width="48"/>
 ## 📚 Currently Learning
 
 ```python
-class PraveenK:
+learning = [
+    "Advanced Machine Learning",
+    "Large Language Models",
+    "LangGraph",
+    "AI Agents",
+    "MLOps",
+    "Cloud Deployment"
+]
 
-    def __init__(self):
-        self.learning = [
-            "Advanced Machine Learning",
-            "Large Language Models",
-            "AI Agents",
-            "LangGraph",
-            "Cloud Deployment",
-            "MLOps"
-        ]
+goal = "AI/ML Engineer 🚀"
 
-        self.interests = [
-            "Artificial Intelligence",
-            "Computer Vision",
-            "Natural Language Processing",
-            "Generative AI"
-        ]
+print("Currently Learning:")
+for topic in learning:
+    print(f"✔ {topic}")
 
-        self.goal = "AI/ML Engineer 🚀"
-
-    def __str__(self):
-        return f"""
-Learning:
-{self.learning}
-
-Interests:
-{self.interests}
-
-Goal:
-{self.goal}
-"""
-
-print(PraveenK())
+print(f"\nGoal: {goal}")
 ```
 
 ## 📈 GitHub Stats
@@ -310,14 +292,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarme
 
 ## 💡 Fun Fact
 
-```cpp
-while(alive)
-{
-    Learn();
-    Build();
-    Improve();
-    Repeat();
-}
+> 💡 **Code. Learn. Build. Repeat.**
 ```
 
 <div align="center">
