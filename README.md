@@ -1,78 +1,51 @@
-```markdown
-<div align="center">
+# Hi there, I'm Praveen K 👋
 
-# Hi 👋 I'm **Praveen K**
+<h3 align="center">AI/ML Engineer • Generative AI Enthusiast • Full Stack Developer</h3>
 
-### AI/ML Engineer • Generative AI Enthusiast • Full Stack Developer
-
-<p>
-<a href="https://kpraveen.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/></a>
-<a href="mailto:kpraveenhosur@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/itspraveenk"><img src="https://img.shields.io/badge/LinkedIn-Praveen-blue?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://github.com/Praveenkarmegam"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/></a>
+<p align="center">
+  <a href="mailto:kpraveenhosur@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/itspraveenk">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Praveenkarmegam">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://kpraveen.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-00C853?style=flat-square&logo=google-chrome&logoColor=white"/>
+  </a>
 </p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Generative+AI+Developer;Full+Stack+Developer"/>
-
-</div>
 
 ---
 
 # 💫 About Me
 
-🎓 **B.Tech Artificial Intelligence & Data Science (2022–2026)**
+```python
+class Praveen:
 
-🔍 Currently looking for **AI Engineer / Machine Learning Engineer / Data Scientist** opportunities.
+    education = "B.Tech - Artificial Intelligence & Data Science (2022-2026)"
 
-💡 Passionate about building intelligent applications using **Machine Learning, Deep Learning, Computer Vision, NLP, LLMs, AI Agents, and Cloud Technologies.**
+    current_status = "Open to AI/ML Engineer Opportunities"
 
-🌱 Currently exploring **Advanced Generative AI, RAG Systems, AI Agents, and MLOps.**
+    interests = [
+        "Machine Learning",
+        "Deep Learning",
+        "Generative AI",
+        "AI Agents",
+        "Computer Vision",
+        "Natural Language Processing",
+        "Full Stack Development",
+        "Cloud Computing"
+    ]
 
-📫 **Email:** **kpraveenhosur@gmail.com**
+    motto = "Building intelligent systems that solve real-world problems."
+```
 
-🌐 **Portfolio:** https://kpraveen.netlify.app
-
----
-
-# 🧠 Artificial Intelligence & Machine Learning
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing (NLP)
-- Model Training
-- Feature Engineering
-- Data Preprocessing
-- Neural Networks
-- Classification & Regression
-- Transfer Learning
-
----
-
-# 🤖 Generative AI
-
-- Large Language Models (LLMs)
-- Prompt Engineering
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- LangChain
-- OpenAI APIs
-- Agentic AI
-- Vector Databases
-- AI Application Development
-
----
-
-# 📊 Data Analytics
-
-- Data Cleaning
-- Data Visualization
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis
-- Dashboard Development
-- Business Intelligence
-- Reporting
-- Data Transformation
+* 🎓 B.Tech in Artificial Intelligence & Data Science
+* 🔍 Looking for AI/ML Engineer opportunities
+* 🌱 Currently exploring AI Agents, LLMs and RAG Applications
+* 📫 **Email:** **[kpraveenhosur@gmail.com](mailto:kpraveenhosur@gmail.com)**
 
 ---
 
@@ -84,15 +57,15 @@
 
 ---
 
-# 🌐 Web Development
-
-### Frontend
+# 🎨 Frontend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react"/>
 </p>
 
-### Backend
+---
+
+# ⚙️ Backend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask"/>
@@ -100,23 +73,56 @@
 
 ---
 
-# 🗄 Databases
+# 🗄️ Databases
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-
 <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
-
 </p>
 
 ---
 
-# ⚙️ AI Frameworks & Libraries
+# 🤖 Artificial Intelligence & Machine Learning
+
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Natural Language Processing
+* Model Training
+* Feature Engineering
+* Transfer Learning
+
+---
+
+# ✨ Generative AI
+
+* Large Language Models (LLMs)
+* Prompt Engineering
+* Retrieval-Augmented Generation (RAG)
+* AI Agents
+* LangChain
+* Generative AI Applications
+
+---
+
+# 📊 Data Analytics
+
+* Data Cleaning
+* Data Preprocessing
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Statistical Analysis
+* Dashboard Development
+
+---
+
+# 🧠 AI & Data Science Frameworks
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 
@@ -126,7 +132,7 @@
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
 
@@ -134,17 +140,17 @@
 
 ---
 
-# 🛠 Developer Tools
+# 🛠 Development Tools
 
 <p>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws"/>
 
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
 </p>
 
@@ -154,15 +160,15 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Praveenkarmegam&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Praveenkarmegam&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenkarmegam&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenkarmegam&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -171,54 +177,49 @@
 # 🏆 LeetCode
 
 <p align="center">
-
 <a href="https://leetcode.com/u/Praveen_K_/">
-
-<img src="https://leetcard.jacoblin.cool/Praveen_K_?theme=dark&font=baloo&ext=heatmap"/>
-
+<img src="https://leetcard.jacoblin.cool/Praveen_K_?theme=dark&font=baloo&ext=contest"/>
 </a>
-
 </p>
 
 ---
 
-# 💭 Daily Dev Quote
+# 💭 Dev Quote
 
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
 
 </p>
 
 ---
 
-# 🤝 Let's Connect
+# 🌐 Let's Connect
 
 <p align="center">
 
 <a href="mailto:kpraveenhosur@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/itspraveenk">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Praveenkarmegam">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://kpraveen.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-2E7D32?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-### ⭐ *"Building intelligent solutions that solve real-world problems."*
+### *"Code. Learn. Build. Innovate. Repeat."* 🚀
 
-</div>
-```
+</p>
