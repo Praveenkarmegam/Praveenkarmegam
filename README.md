@@ -47,67 +47,25 @@ https://kpraveen.netlify.app
 
 <td align="center" width="33%">
 
-## 💻 Programming Languages
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python" width="60"/>
-
-**Python**
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=javascript" width="60"/>
-
-**JavaScript**
+<img src="https://skillicons.dev/icons?i=python,javascript" />
 
 </td>
 
 <td align="center" width="33%">
 
-## 🌐 Frontend
+### 🌐 Frontend
 
-<img src="https://skillicons.dev/icons?i=html" width="60"/>
-
-**HTML5**
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=css" width="60"/>
-
-**CSS3**
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=react" width="60"/>
-
-**React.js**
+<img src="https://skillicons.dev/icons?i=html,css,react" />
 
 </td>
 
 <td align="center" width="33%">
 
-## ⚙️ Backend
+### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs" width="60"/>
-
-**Node.js**
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=express" width="60"/>
-
-**Express.js**
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=django" width="60"/>
-
-**Django**
-
-<br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60"/>
-
-**Flask**
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" />
 
 </td>
 
@@ -115,93 +73,54 @@ https://kpraveen.netlify.app
 
 <tr>
 
-<td align="center" width="33%">
+<td align="center">
 
-## 🗄️ Database
+### 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=mysql" width="60"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
-**MySQL**
+<br><br>
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=mongodb" width="60"/>
-
-**MongoDB**
-
-<br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="60"/>
-
-**Neo4j**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="48"/>
 
 </td>
 
-<td align="center" width="33%">
+<td align="center">
 
-## 🧠 AI & Machine Learning
+### 🧠 AI / ML
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 
-**TensorFlow**
+<br><br>
 
-<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="60"/>
+<br><br>
 
-**Keras**
-
-<br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60"/>
-
-**PyTorch**
-
-<br>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60"/>
-
-**Scikit-Learn**
-
-<br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="60"/>
-
-**OpenCV**
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"/>
 
 </td>
 
-<td align="center" width="33%">
+<td align="center">
 
-## 🤖 Generative AI
+### 🤖 Generative AI
 
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="60"/>
+<img src="https://skillicons.dev/icons?i=github" width="0"/>
 
-**LangChain**
-
-<br>
-
-<img src="https://img.shields.io/badge/LLMs-4285F4?style=for-the-badge"/>
-
-**Large Language Models**
+<img src="https://img.shields.io/badge/LangChain-blue?style=for-the-badge"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Prompt%20Engineering-FF9800?style=for-the-badge"/>
-
-**Prompt Engineering**
+<img src="https://img.shields.io/badge/LLMs-success?style=for-the-badge"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/AI%20Agents-6C63FF?style=for-the-badge"/>
-
-**AI Agents**
+<img src="https://img.shields.io/badge/RAG-orange?style=for-the-badge"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Generative%20AI-00C853?style=for-the-badge"/>
-
-**Generative AI**
+<img src="https://img.shields.io/badge/AI_Agents-purple?style=for-the-badge"/>
 
 </td>
 
@@ -209,83 +128,49 @@ https://kpraveen.netlify.app
 
 <tr>
 
-<td align="center" width="33%">
+<td align="center">
 
-## 📊 Data Analytics
+### 📊 Data
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/>
+<img src="https://skillicons.dev/icons?i=numpy" />
 
-**Pandas**
+<br><br>
 
-<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60"/>
+<br><br>
 
-**NumPy**
-
-<br>
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-**Power BI**
+<img src="https://img.shields.io/badge/Power_BI-yellow?style=for-the-badge"/>
 
 </td>
 
-<td align="center" width="33%">
+<td align="center">
 
-## 🛠️ Tools
+### 🛠️ Tools
 
-<img src="https://skillicons.dev/icons?i=git" width="60"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
-**Git**
+<br><br>
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=github" width="60"/>
-
-**GitHub**
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=vscode" width="60"/>
-
-**VS Code**
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=postman" width="60"/>
-
-**Postman**
-
-<br>
-
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-
-**Google Colab**
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
 
 </td>
 
-<td align="center" width="33%">
+<td align="center">
 
-## ☁️ Cloud & Deployment
+### ☁️ Cloud
 
-<img src="https://skillicons.dev/icons?i=aws" width="60"/>
+<img src="https://skillicons.dev/icons?i=aws" />
 
-**AWS**
+<br><br>
 
-<br>
-
-<img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-
-**Windows Server**
+<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
 </td>
 
 </tr>
 
 </table>
-
----
 
 ## 📌 Areas of Expertise
 
