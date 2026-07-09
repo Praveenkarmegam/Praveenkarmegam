@@ -8,7 +8,6 @@ AI Engineer • Machine Learning • Generative AI • Full Stack Developer
   <img src="https://komarev.com/ghpvc/?username=Praveenkarmegam&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
----
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 
