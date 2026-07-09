@@ -193,6 +193,46 @@ width="48"/>
 | NLP | Prompt Engineering | CRUD Applications |
 | Neural Networks | RAG | Deployment |
 
+
+## 📚 Currently Learning
+
+```python
+class PraveenK:
+
+    def __init__(self):
+        self.learning = [
+            "Advanced Machine Learning",
+            "Large Language Models",
+            "AI Agents",
+            "LangGraph",
+            "Cloud Deployment",
+            "MLOps"
+        ]
+
+        self.interests = [
+            "Artificial Intelligence",
+            "Computer Vision",
+            "Natural Language Processing",
+            "Generative AI"
+        ]
+
+        self.goal = "AI/ML Engineer 🚀"
+
+    def __str__(self):
+        return f"""
+Learning:
+{self.learning}
+
+Interests:
+{self.interests}
+
+Goal:
+{self.goal}
+"""
+
+print(PraveenK())
+```
+
 ## 📈 GitHub Stats
 
 <p align="center">
