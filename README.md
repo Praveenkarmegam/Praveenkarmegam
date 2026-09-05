@@ -226,10 +226,6 @@ Program Period: April 2024 – June 2024
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/Praveenkarmegam">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
 <a href="https://kpraveen.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
