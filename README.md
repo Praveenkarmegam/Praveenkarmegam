@@ -6,30 +6,33 @@ AI Engineer • Machine Learning Engineer • Generative AI • Agentic AI
 
 ---
 
----
+<div align="center">
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+<h3>
+AI Engineer | Machine Learning Engineer | Generative AI | Agentic AI
+</h3>
 
-# 👨‍💻 About Me
+<img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="AI Coding" width="320" />
 
-🎓 B.Tech Graduate specializing in **Artificial Intelligence & Data Science**.
+<p>👋 Hi, I'm <strong>Praveen K</strong></p>
 
-🤖 Building intelligent, real-world solutions using **Machine Learning, Deep Learning, Generative AI and Large Language Models (LLMs)**.
+<p>🎓 B.Tech Graduate specializing in <strong>Artificial Intelligence & Data Science</strong></p>
 
-🧩 Exploring **Agentic AI, AI Agents, Tool Calling, LangGraph and Multi-Agent Systems**.
+<p>🤖 Building intelligent, real-world solutions using <strong>Machine Learning, Deep Learning, Generative AI and Large Language Models (LLMs)</strong></p>
 
-🔍 Working with **RAG, Vector Databases, Semantic Search and Prompt Engineering** to develop intelligent AI applications.
+<p>🧩 Exploring <strong>Agentic AI, AI Agents, Tool Calling, LangGraph and Multi-Agent Systems</strong></p>
 
-⚙️ Combining **AI Engineering and Software Development** with **Python, Django, FastAPI and modern APIs**.
+<p>🔍 Working with <strong>RAG, Vector Databases, Semantic Search and Prompt Engineering</strong> to develop intelligent AI applications</p>
 
-📊 Applying **Data Science and Machine Learning** to transform data into practical, intelligent solutions.
+<p>⚙️ Combining <strong>AI Engineering and Software Development</strong> using Python, Django, FastAPI and modern APIs</p>
 
-🚀 Continuously growing as an **AI Engineer and Machine Learning Engineer**, with a focus on building scalable and impactful AI applications.
+<p>📊 Applying <strong>Data Science and Machine Learning</strong> to transform data into practical, intelligent solutions</p>
 
-🌐 **Portfolio:**  
-https://kpraveen.netlify.app
+<p>🚀 Focused on building <strong>scalable, practical and impactful AI applications</strong></p>
 
----
+<p>🌐 Portfolio: <strong>https://kpraveen.netlify.app</strong></p>
+
+</div>
 ---
 
 # 🚀 Current Focus
