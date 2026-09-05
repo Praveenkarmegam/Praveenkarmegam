@@ -30,7 +30,6 @@ AI Engineer • Machine Learning Engineer • Generative AI • Agentic AI
 
 ---
 
-
 # 🛠️ Tech Stack
 
 <table align="center" width="100%">
@@ -86,6 +85,7 @@ AI Engineer • Machine Learning Engineer • Generative AI • Agentic AI
 
 </tr>
 
+
 <!-- ================= ROW 2 ================= -->
 
 <tr>
@@ -93,6 +93,13 @@ AI Engineer • Machine Learning Engineer • Generative AI • Agentic AI
 <td align="center" valign="top" width="33.33%">
 
 ### 📊 Data Science
+
+<img
+src="https://skillicons.dev/icons?i=python"
+height="42"
+/>
+
+<br/>
 
 <img
 src="https://skillicons.dev/icons?i=pandas,numpy"
@@ -103,9 +110,13 @@ height="42"
 
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" />
+
+<br/>
+
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 
 </td>
+
 
 <td align="center" valign="top" width="33.33%">
 
@@ -136,11 +147,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.s
 
 <br/>
 
-<img
-src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square"
-/>
+<img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square" />
 
 </td>
+
 
 <td align="center" valign="top" width="33.33%">
 
@@ -154,13 +164,18 @@ height="42"
 <br/>
 
 <img
-src="https://skillicons.dev/icons?i=mysql,linux"
+src="https://skillicons.dev/icons?i=java"
 height="42"
 />
+
+<br/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 
 </td>
 
 </tr>
+
 
 <!-- ================= ROW 3 ================= -->
 
@@ -184,6 +199,7 @@ height="42"
 
 </td>
 
+
 <td align="center" valign="top" width="33.33%">
 
 ### 🗄️ Databases & Cloud
@@ -196,10 +212,16 @@ height="42"
 <br/>
 
 <img
-src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white"
+src="https://skillicons.dev/icons?i=aws"
+height="42"
 />
 
+<br/>
+
+<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+
 </td>
+
 
 <td align="center" valign="top" width="33.33%">
 
@@ -225,6 +247,8 @@ height="42"
 </tr>
 
 </table>
+
+---
 
 # 🎓 Certifications
 
