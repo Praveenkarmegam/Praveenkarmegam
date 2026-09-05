@@ -10,6 +10,8 @@ AI Engineer • Machine Learning Engineer • Generative AI • Agentic AI
 
 ---
 
+<img align="right" width="320" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Coding Animation"/>
+
 ## 👨‍💻 About Me
 
 🎓 **B.Tech in Artificial Intelligence & Data Science**, passionate about building intelligent and practical AI solutions.
@@ -30,7 +32,6 @@ AI Engineer • Machine Learning Engineer • Generative AI • Agentic AI
 
 <br clear="right"/>
 
----
 
 # 🚀 Current Focus
 
