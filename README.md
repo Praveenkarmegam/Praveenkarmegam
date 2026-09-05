@@ -1,256 +1,313 @@
-<!-- ========================= -->
-
-<!--   PRAVEEN K - PROFILE README   -->
-
-<!-- ========================= -->
-
 <div align="center">
 
-Hi 👋, I'm Praveen K
+# Hi 👋, I'm Praveen K
 
-AI Engineer • Machine Learning • Generative AI • Full Stack Developer
+### AI Engineer • Machine Learning • Generative AI • Full Stack Developer
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Praveenkarmegam&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Praveenkarmegam&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 
 </div>
 
-👨‍💻 About Me
+---
+
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 🎓 Artificial Intelligence & Data Science Graduate.
 
-🤖 Focused on building practical and intelligent applications using Artificial Intelligence and Machine Learning.
+🤖 Focused on building practical applications using Artificial Intelligence and Machine Learning.
 
-🧠 Interested in Generative AI, Large Language Models, Retrieval-Augmented Generation and Agentic AI.
+🧠 Interested in Generative AI, Large Language Models, RAG and Agentic AI systems.
 
-🧩 Exploring AI Agents, Agentic Workflows, Tool Calling and intelligent automation.
-
-🔗 Combining AI capabilities with modern backend and full stack development to build real-world applications.
+🔗 Building intelligent applications by combining AI technologies with modern backend development.
 
 🚀 Continuously improving my problem-solving, software engineering and AI development skills.
 
-<div align="center">
-
-🌐 Explore My Work
-
-<a href="https://kpraveen.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20My%20Portfolio-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-</a>
-
-</div>
-
-🚀 Current Focus
-
-🤖 Building AI-powered applications using LLMs and Generative AI.
-
-🧩 Exploring AI Agents, Agentic Workflows and Multi-Agent Systems.
-
-🔗 Developing RAG systems, vector search and knowledge-based AI applications.
-
-🧠 Strengthening my knowledge in Machine Learning, Deep Learning and problem solving.
-
-🏗️ Building production-oriented AI applications with modern backend and software engineering practices.
-
-💻 Tech Stack
-
-<table align="center">
-<tr>
-
-<td align="center" width="33.33%">
-
-🤖 Generative AI
-
-<p>
-  <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
-  &nbsp;
-  <img title="Hugging Face" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Hugging Face"/>
-  &nbsp;
-  <img title="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch"/>
-</p>
-
-</td>
-
-<td align="center" width="33.33%">
-
-🧩 Agentic AI
-
-<p>
-  <img title="LangChain" src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain"/>
-  &nbsp;
-  <img title="LangGraph" src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangGraph"/>
-  &nbsp;
-  <img title="CrewAI" src="https://www.crewai.com/crewai-logo.svg" width="48" height="48" alt="CrewAI"/>
-</p>
-
-</td>
-
-<td align="center" width="33.33%">
-
-🧠 Machine Learning
-
-<p>
-  <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
-  &nbsp;
-  <img title="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow"/>
-  &nbsp;
-  <img title="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch"/>
-  &nbsp;
-  <img title="scikit-learn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="scikit-learn"/>
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="33.33%">
-
-🔗 RAG Systems
-
-<p>
-  <img title="LangChain" src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain"/>
-  &nbsp;
-  <img title="Hugging Face" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Hugging Face"/>
-  &nbsp;
-  <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
-</p>
-
-</td>
-
-<td align="center" width="33.33%">
-
-⚙️ AI Frameworks
-
-<p>
-  <img title="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow"/>
-  &nbsp;
-  <img title="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch"/>
-  &nbsp;
-  <img title="Keras" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="48" height="48" alt="Keras"/>
-  &nbsp;
-  <img title="scikit-learn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="scikit-learn"/>
-</p>
-
-</td>
-
-<td align="center" width="33.33%">
-
-🌐 Full Stack & AI Backend
-
-<p>
-  <img title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
-  &nbsp;
-  <img title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/>
-  &nbsp;
-  <img title="Express.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express.js"/>
-  &nbsp;
-  <img title="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI"/>
-  &nbsp;
-  <img title="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django"/>
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="33.33%">
-
-🗄️ Databases
-
-<p>
-  <img title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
-  &nbsp;
-  <img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/>
-  &nbsp;
-  <img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>
-</p>
-
-</td>
-
-<td align="center" width="33.33%">
-
-☁️ Cloud & Deployment
-
-<p>
-  <img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>
-  &nbsp;
-  <img title="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="58" height="48" alt="AWS"/>
-  &nbsp;
-  <img title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/>
-</p>
-
-</td>
-
-<td align="center" width="33.33%">
-
-🛠️ Developer Tools
-
-<p>
-  <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
-  &nbsp;
-  <img title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>
-  &nbsp;
-  <img title="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="Visual Studio Code"/>
-  &nbsp;
-  <img title="Jupyter Notebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter Notebook"/>
-  &nbsp;
-  <img title="Google Colab" src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="48" height="48" alt="Google Colab"/>
-</p>
-
-</td>
-
-</tr>
-</table>
-
-🎓 Certifications
-
-🤖 Artificial Intelligence & Machine Learning
-
-GUVI — Artificial Intelligence and Machine Learning Course
-📅 Issued: July 2025
-
-<a href="https://www.guvi.in/verify-certificate?id=27w6441zV18U3Pu3j8" target="_blank">
-  <img src="https://img.shields.io/badge/VERIFY%20CERTIFICATE-GUVI-00A86B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Verify AI & ML Certificate" />
-</a>
-
-💻 Full Stack Development
-
-GUVI — Zen Class Full Stack Developer Program
-📅 Program Period: April 2024 – June 2024
-
-<a href="https://www.guvi.in/verify-certificate?id=1u7X6Li2h1F65181P5" target="_blank">
-  <img src="https://img.shields.io/badge/VERIFY%20CERTIFICATE-GUVI-00A86B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Verify Full Stack Certificate" />
-</a>
-
-🧩 LeetCode Stats
-
-<div align="center">
-
-<a href="https://leetcode.com/u/Praveen_K_/">
-  <img src="https://leetcard.jacoblin.cool/Praveen_K_?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
-</a>
-
-</div>
-
-📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Praveenkarmegam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenkarmegam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+💡 Open to opportunities where I can learn, build and contribute to real-world AI products.
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+🌐 **Portfolio:** [Visit My Portfolio](https://kpraveen.netlify.app/)
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://github.com/Praveenkarmegam.png?size=400" width="280" alt="Praveen K" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Current Focus
+
+- 🤖 Building AI-powered applications using LLMs and Generative AI.
+- 🧩 Exploring AI Agents, Agentic Workflows and Multi-Agent Systems.
+- 🔗 Developing Retrieval-Augmented Generation (RAG) and knowledge-based AI applications.
+- 🧠 Strengthening Machine Learning, Deep Learning and problem-solving skills.
+- 🏗️ Building production-oriented AI applications with modern backend and software engineering practices.
+
+---
+
+# 💻 Tech Stack
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="33%">
+
+### 🤖 Generative Artificial Intelligence
+
+<br/>
+
+<img title="Python" alt="Python" width="55" height="55" src="https://cdn.simpleicons.org/python/3776AB" />
+&nbsp;&nbsp;
+
+<img title="Hugging Face" alt="Hugging Face" width="55" height="55" src="https://cdn.simpleicons.org/huggingface/FFD21E" />
+&nbsp;&nbsp;
+
+<img title="PyTorch" alt="PyTorch" width="55" height="55" src="https://cdn.simpleicons.org/pytorch/EE4C2C" />
+
+<br/><br/>
+
+<img title="LangChain" alt="LangChain" width="55" height="55" src="https://cdn.simpleicons.org/langchain/1C3C3C" />
+
+</td>
+
+<td align="center" width="33%">
+
+### 🧩 Agentic Artificial Intelligence
+
+<br/>
+
+<img title="Python" alt="Python" width="55" height="55" src="https://cdn.simpleicons.org/python/3776AB" />
+&nbsp;&nbsp;
+
+<img title="LangChain" alt="LangChain" width="55" height="55" src="https://cdn.simpleicons.org/langchain/1C3C3C" />
+
+<br/><br/>
+
+<img title="LangGraph" alt="LangGraph" width="55" height="55" src="https://cdn.simpleicons.org/langchain/1C3C3C" />
+
+</td>
+
+<td align="center" width="33%">
+
+### 🧠 Machine Learning
+
+<br/>
+
+<img title="Python" alt="Python" width="55" height="55" src="https://cdn.simpleicons.org/python/3776AB" />
+&nbsp;&nbsp;
+
+<img title="TensorFlow" alt="TensorFlow" width="55" height="55" src="https://cdn.simpleicons.org/tensorflow/FF6F00" />
+&nbsp;&nbsp;
+
+<img title="PyTorch" alt="PyTorch" width="55" height="55" src="https://cdn.simpleicons.org/pytorch/EE4C2C" />
+
+<br/><br/>
+
+<img title="Scikit-learn" alt="Scikit-learn" width="55" height="55" src="https://cdn.simpleicons.org/scikitlearn/F7931E" />
+&nbsp;&nbsp;
+
+<img title="OpenCV" alt="OpenCV" width="55" height="55" src="https://cdn.simpleicons.org/opencv/5C3EE8" />
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%">
+
+### 🔗 RAG Systems
+
+<br/>
+
+<img title="LangChain" alt="LangChain" width="55" height="55" src="https://cdn.simpleicons.org/langchain/1C3C3C" />
+&nbsp;&nbsp;
+
+<img title="Hugging Face" alt="Hugging Face" width="55" height="55" src="https://cdn.simpleicons.org/huggingface/FFD21E" />
+
+<br/><br/>
+
+<img title="Python" alt="Python" width="55" height="55" src="https://cdn.simpleicons.org/python/3776AB" />
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚙️ AI Frameworks
+
+<br/>
+
+<img title="TensorFlow" alt="TensorFlow" width="55" height="55" src="https://cdn.simpleicons.org/tensorflow/FF6F00" />
+&nbsp;&nbsp;
+
+<img title="PyTorch" alt="PyTorch" width="55" height="55" src="https://cdn.simpleicons.org/pytorch/EE4C2C" />
+
+<br/><br/>
+
+<img title="Keras" alt="Keras" width="55" height="55" src="https://cdn.simpleicons.org/keras/D00000" />
+&nbsp;&nbsp;
+
+<img title="Scikit-learn" alt="Scikit-learn" width="55" height="55" src="https://cdn.simpleicons.org/scikitlearn/F7931E" />
+
+</td>
+
+<td align="center" width="33%">
+
+### 🌐 Backend & APIs
+
+<br/>
+
+<img title="FastAPI" alt="FastAPI" width="55" height="55" src="https://cdn.simpleicons.org/fastapi/009688" />
+&nbsp;&nbsp;
+
+<img title="Django" alt="Django" width="55" height="55" src="https://cdn.simpleicons.org/django/092E20" />
+
+<br/><br/>
+
+<img title="Node.js" alt="Node.js" width="55" height="55" src="https://cdn.simpleicons.org/nodedotjs/339933" />
+&nbsp;&nbsp;
+
+<img title="Express.js" alt="Express.js" width="55" height="55" src="https://cdn.simpleicons.org/express/FFFFFF" />
+
+<br/><br/>
+
+<img title="React.js" alt="React.js" width="55" height="55" src="https://cdn.simpleicons.org/react/61DAFB" />
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%">
+
+### 🗄️ Databases
+
+<br/>
+
+<img title="PostgreSQL" alt="PostgreSQL" width="55" height="55" src="https://cdn.simpleicons.org/postgresql/4169E1" />
+&nbsp;&nbsp;
+
+<img title="MongoDB" alt="MongoDB" width="55" height="55" src="https://cdn.simpleicons.org/mongodb/47A248" />
+&nbsp;&nbsp;
+
+<img title="MySQL" alt="MySQL" width="55" height="55" src="https://cdn.simpleicons.org/mysql/4479A1" />
+
+</td>
+
+<td align="center" width="33%">
+
+### ☁️ Cloud & Deployment
+
+<br/>
+
+<img title="Docker" alt="Docker" width="55" height="55" src="https://cdn.simpleicons.org/docker/2496ED" />
+&nbsp;&nbsp;
+
+<img title="AWS" alt="AWS" width="55" height="55" src="https://cdn.simpleicons.org/amazonaws/FF9900" />
+
+<br/><br/>
+
+<img title="Linux" alt="Linux" width="55" height="55" src="https://cdn.simpleicons.org/linux/FCC624" />
+
+</td>
+
+<td align="center" width="33%">
+
+### 🛠️ Developer Tools
+
+<br/>
+
+<img title="Git" alt="Git" width="55" height="55" src="https://cdn.simpleicons.org/git/F05032" />
+&nbsp;&nbsp;
+
+<img title="GitHub" alt="GitHub" width="55" height="55" src="https://cdn.simpleicons.org/github/FFFFFF" />
+&nbsp;&nbsp;
+
+<img title="Visual Studio Code" alt="Visual Studio Code" width="55" height="55" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" />
+
+<br/><br/>
+
+<img title="Jupyter Notebook" alt="Jupyter Notebook" width="55" height="55" src="https://cdn.simpleicons.org/jupyter/F37626" />
+&nbsp;&nbsp;
+
+<img title="Google Colab" alt="Google Colab" width="55" height="55" src="https://cdn.simpleicons.org/googlecolab/F9AB00" />
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🎓 Certifications
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+**GUVI — Artificial Intelligence and Machine Learning Course**
+
+📅 **Issued:** July 2025
+
+🔗 [Verify Certificate](https://www.guvi.in/verify-certificate?id=27w6441zV18U3Pu3j8)
+
+---
+
+### 💻 Full Stack Development
+
+**GUVI — Zen Class Full Stack Developer Program**
+
+📅 **Program Period:** April 2024 – June 2024
+
+🔗 [Verify Certificate](https://www.guvi.in/verify-certificate?id=1u7X6Li2h1F65181P5)
+
+---
+
+# 🧩 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Praveen_K_?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" />
 
 </div>
 
-💬 Random Dev Quote
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=Praveenkarmegam&show_icons=true&theme=tokyonight&hide_border=true"
+height="170"
+/>
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenkarmegam&theme=tokyonight&hide_border=true"
+height="170"
+/>
+
+<br/><br/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkarmegam&layout=compact&theme=tokyonight&hide_border=true"
+/>
+
+</div>
+
+---
+
+# 💬 Random Dev Quote
 
 <div align="center">
 
@@ -258,24 +315,24 @@ GUVI — Zen Class Full Stack Developer Program
 
 </div>
 
-🤝 Connect With Me
+---
+
+# 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/itspraveenk/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" title="LinkedIn"/>
+<img title="LinkedIn" alt="LinkedIn" width="55" height="55" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
 </a>
+&nbsp;&nbsp;&nbsp;
 
-   
-
-<a href="mailto:YOUR_EMAIL_ADDRESS">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" height="48" alt="Email" title="Email"/>
+<a href="mailto:YOUR_EMAIL@example.com">
+<img title="Email" alt="Email" width="55" height="55" src="https://cdn.simpleicons.org/gmail/EA4335" />
 </a>
-
-   
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://kpraveen.netlify.app/" target="_blank">
-  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="48" height="48" alt="Portfolio" title="Portfolio"/>
+<img title="Portfolio" alt="Portfolio" width="55" height="55" src="https://cdn.simpleicons.org/googlechrome/4285F4" />
 </a>
 
 </div>
@@ -284,6 +341,6 @@ GUVI — Zen Class Full Stack Developer Program
 
 <div align="center">
 
-⭐ Building intelligent systems with AI, Machine Learning & Modern Software Engineering.
+### ⭐ Building intelligent systems with AI, Machine Learning & Modern Software Engineering.
 
 </div>
