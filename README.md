@@ -5,22 +5,26 @@ AI Engineer • Machine Learning Engineer • Generative AI • Agentic AI
 </h3>
 
 ---
+
 <img align="right" width="320" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 
 # 👨‍💻 About Me
 
 🎓 B.Tech Graduate specializing in **Artificial Intelligence & Data Science**.
 
-🤖 Building intelligent and practical solutions with **Machine Learning, Generative AI and Large Language Models (LLMs)**.
+🤖 Building intelligent, real-world solutions using **Machine Learning, Deep Learning, Generative AI and Large Language Models (LLMs)**.
 
-🧩 Exploring **Agentic AI, AI Agents, Tool Calling and Multi-Agent Systems**.
+🧩 Exploring **Agentic AI, AI Agents, Tool Calling, LangGraph and Multi-Agent Systems**.
 
-🔍 Working with **RAG, embeddings, vector databases and semantic search** to build intelligent retrieval systems.
+🔍 Working with **RAG, Vector Databases, Semantic Search and Prompt Engineering** to develop intelligent AI applications.
 
-⚙️ Combining **AI Engineering and Software Development** using Python, Django, FastAPI and modern APIs.
+⚙️ Combining **AI Engineering and Software Development** with **Python, Django, FastAPI and modern APIs**.
 
-🚀 Focused on continuously growing as an **AI Engineer and Machine Learning Engineer**.
-🌐 Portfolio:
+📊 Applying **Data Science and Machine Learning** to transform data into practical, intelligent solutions.
+
+🚀 Continuously growing as an **AI Engineer and Machine Learning Engineer**, with a focus on building scalable and impactful AI applications.
+
+🌐 Portfolio:  
 **https://kpraveen.netlify.app**
 
 ---
