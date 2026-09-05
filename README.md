@@ -5,35 +5,35 @@ AI Engineer • Machine Learning Engineer • Generative AI • Agentic AI
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Praveenkarmegam&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Praveenkarmegam&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
 ---
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+<img align="right" width="320" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Coding Animation"/>
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech Graduate specializing in **Artificial Intelligence & Data Science**.
+🎓 **B.Tech in Artificial Intelligence & Data Science**, passionate about building intelligent and practical AI solutions.
 
-🤖 Building intelligent, real-world solutions using **Machine Learning, Deep Learning, Generative AI and Large Language Models (LLMs)**.
+🤖 Developing applications using **Machine Learning, Deep Learning, Generative AI, and Large Language Models (LLMs)**.
 
-🧩 Exploring **Agentic AI, AI Agents, Tool Calling, LangGraph and Multi-Agent Systems**.
+🧩 Exploring **Agentic AI, AI Agents, Tool Calling, LangGraph, and Multi-Agent Systems**.
 
-🔍 Working with **RAG, Vector Databases, Semantic Search and Prompt Engineering** to develop intelligent AI applications.
+🔍 Building intelligent applications with **RAG, Vector Databases, Semantic Search, Embeddings, and Prompt Engineering**.
 
-⚙️ Combining **AI Engineering and Software Development** with **Python, Django, FastAPI and modern APIs**.
+⚙️ Combining **AI Engineering with Backend & Software Development** using **Python, Django, FastAPI, REST APIs, and modern AI frameworks**.
 
-📊 Applying **Data Science and Machine Learning** to transform data into practical, intelligent solutions.
+📊 Applying **Data Science and Machine Learning** to turn complex data into meaningful, real-world solutions.
 
-🚀 Continuously growing as an **AI Engineer and Machine Learning Engineer**, with a focus on building scalable and impactful AI applications.
+🚀 Currently focused on becoming a strong **AI Engineer / ML Engineer** by building scalable, production-oriented AI applications.
 
-🌐 Portfolio:
-**https://kpraveen.netlify.app**
+🌐 **Portfolio:** [kpraveen.netlify.app](https://kpraveen.netlify.app)
 
 <br clear="right"/>
 
-
 ---
+
 
 # 🚀 Current Focus
 
