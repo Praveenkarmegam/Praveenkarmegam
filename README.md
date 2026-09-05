@@ -24,9 +24,11 @@ AI Engineer • Machine Learning Engineer • Generative AI • Agentic AI
 
 # 🚀 Current Focus
 
-| 🤖 AI Engineering | 🧩 Agentic AI | 🔗 RAG Systems | 🧠 Machine Learning | ⚙️ Software Engineering |
-|---|---|---|---|---|
-| Building LLM-powered applications | AI Agents & Agentic Workflows | Retrieval-Augmented Generation | Deep Learning & ML Systems | Building production-ready applications |
+- 🤖 Building production-ready **AI and LLM-powered applications**
+- 🧩 Exploring **AI Agents, Agentic Workflows and Multi-Agent Systems**
+- 🔗 Developing intelligent **RAG systems using Vector Databases and Embeddings**
+- 🧠 Strengthening expertise in **Machine Learning and Deep Learning**
+- ⚙️ Building scalable applications with **Modern Software Engineering practices**
 
 ---
 
