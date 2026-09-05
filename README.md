@@ -1,15 +1,22 @@
-<h1 align="center">Hi 👋, I'm Praveen K</h1>
+<div align="center">
 
-<h3 align="center">
-AI Engineer • Machine Learning • Generative AI • Full Stack Developer
-</h3>
+# Hi 👋, I'm Praveen K
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Praveenkarmegam&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
+### AI Engineer • Machine Learning • Generative AI • Full Stack Developer
 
+<img src="https://komarev.com/ghpvc/?username=Praveenkarmegam&label=Profile+Views&color=0e75b6&style=flat" />
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="320" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+
+</div>
+
+---
 
 ## 👨‍💻 About Me
 
@@ -23,26 +30,31 @@ AI Engineer • Machine Learning • Generative AI • Full Stack Developer
 
 ☁️ Interested in **Cloud Computing, AI Agents & Intelligent Systems**
 
-🌐 Portfolio:
-**https://kpraveen.netlify.app**
+🌐 Portfolio: **[kpraveen.netlify.app](https://kpraveen.netlify.app)**
 
-<br clear="right"/>
+---
 
 ## 🚀 Current Focus
 
-- 🤖 Building AI & LLM Applications
-- 🧠 Learning AI Agents & Multi-Agent Systems
-- 📊 Machine Learning & Data Analytics
-- ☁️ Cloud Deployment
-- 📚 Improving DSA & Problem Solving
+<div align="center">
 
-## 💻 Tech Stack
+| 🤖 AI Development              | 🧠 Advanced Learning                     | 📊 Problem Solving               |
+| ------------------------------ | ---------------------------------------- | -------------------------------- |
+| Building AI & LLM Applications | Learning AI Agents & Multi-Agent Systems | Improving DSA & Problem Solving  |
+| Generative AI Applications     | Machine Learning & Data Analytics        | Building Real-World Projects     |
+| RAG & Intelligent Systems      | Cloud Deployment                         | Strengthening Engineering Skills |
 
-<table align="center" width="100%">
+</div>
+
+---
+
+# 💻 Tech Stack
+
+<table align="center">
 
 <tr>
 
-<td align="center" width="33.33%">
+<td align="center" width="33%">
 
 ### 💻 Languages
 
@@ -50,7 +62,7 @@ AI Engineer • Machine Learning • Generative AI • Full Stack Developer
 
 </td>
 
-<td align="center" width="33.33%">
+<td align="center" width="33%">
 
 ### 🌐 Frontend
 
@@ -58,7 +70,7 @@ AI Engineer • Machine Learning • Generative AI • Full Stack Developer
 
 </td>
 
-<td align="center" width="33.33%">
+<td align="center" width="33%">
 
 ### ⚙️ Backend
 
@@ -74,13 +86,11 @@ AI Engineer • Machine Learning • Generative AI • Full Stack Developer
 
 ### 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
-<br><br>
+<br/><br/>
 
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg"
-width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="48" />
 
 </td>
 
@@ -88,15 +98,19 @@ width="48"/>
 
 ### 🧠 AI / ML
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 
-<br><br>
+<br/><br/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="48" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48"/>
+  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" />
+
+  
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" />
 
 </td>
 
@@ -104,19 +118,19 @@ width="48"/>
 
 ### 🤖 Generative AI
 
-<img src="https://img.shields.io/badge/LangChain-0052CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-0052CC?style=for-the-badge" />
 
-<br>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/LLMs-16A34A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-16A34A?style=for-the-badge" />
 
-<br>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/RAG-F97316?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-F97316?style=for-the-badge" />
 
-<br>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=for-the-badge" />
 
 </td>
 
@@ -128,15 +142,15 @@ width="48"/>
 
 ### 📊 Data
 
-<img src="https://skillicons.dev/icons?i=numpy"/>
+<img src="https://skillicons.dev/icons?i=numpy" />
 
-<br><br>
+<br/><br/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" />
 
-<br><br>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
 </td>
 
@@ -144,11 +158,11 @@ width="48"/>
 
 ### 🛠️ Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
-<br><br>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
 
 </td>
 
@@ -156,11 +170,11 @@ width="48"/>
 
 ### ☁️ Cloud
 
-<img src="https://skillicons.dev/icons?i=aws"/>
+<img src="https://skillicons.dev/icons?i=aws" />
 
-<br><br>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
 </td>
 
@@ -168,80 +182,105 @@ width="48"/>
 
 </table>
 
+---
+
 ## 📌 Areas of Expertise
 
-- 🧠 Machine Learning
-- 🤖 Deep Learning
-- 👁️ Computer Vision
-- 💬 Natural Language Processing
-- 🔥 Generative AI
-- 🧩 Prompt Engineering
-- ⚡ AI Agents
-- 🔗 Retrieval-Augmented Generation (RAG)
-- 📊 Data Analytics
-- 🌐 Full Stack Development
-- ☁️ Cloud Deployment
+<div align="center">
+
+| 🧠 AI & ML                  | 🤖 Generative AI   | 💻 Engineering         |
+| --------------------------- | ------------------ | ---------------------- |
+| Machine Learning            | LLM Applications   | Full Stack Development |
+| Deep Learning               | AI Agents          | MERN Stack             |
+| Computer Vision             | RAG                | REST APIs              |
+| Natural Language Processing | Prompt Engineering | Authentication         |
+| Data Analytics              | LangChain          | Cloud Deployment       |
+
+</div>
+
+---
 
 ## 🏆 Featured Skills
 
-| AI & ML | Generative AI | Full Stack |
-|:--------:|:-------------:|:----------:|
-| Machine Learning | LLM Applications | MERN Stack |
-| Deep Learning | AI Agents | REST APIs |
-| Computer Vision | LangChain | Authentication |
-| NLP | Prompt Engineering | CRUD Applications |
-| Neural Networks | RAG | Deployment |
+<div align="center">
 
+|      AI & ML     |    Generative AI   |     Full Stack    |
+| :--------------: | :----------------: | :---------------: |
+| Machine Learning |  LLM Applications  |     MERN Stack    |
+|   Deep Learning  |      AI Agents     |     REST APIs     |
+|  Computer Vision |      LangChain     |   Authentication  |
+|        NLP       | Prompt Engineering | CRUD Applications |
+|  Neural Networks |         RAG        |     Deployment    |
+
+</div>
+
+---
 
 ## 🧮 LeetCode Stats
 
-<p align="center">
+<div align="center">
 
 <a href="https://leetcode.com/u/Praveen_K_/">
 
-<img src="https://leetcard.jacoblin.cool/Praveen_K_?theme=dark&font=Baloo&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/Praveen_K_?theme=dark&font=Baloo&ext=contest" />
 
 </a>
 
-</p>
+</div>
+
+---
 
 ## 💬 Random Dev Quote
 
-<p align="center">
+<div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-</p>
+</div>
+
+---
 
 ## 🤝 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="mailto:kpraveenhosur@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+  
+
 <a href="https://www.linkedin.com/in/itspraveenk">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+  
+
 <a href="https://github.com/Praveenkarmegam">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+  
 
 <a href="https://kpraveen.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-</p>
+</div>
+
+---
 
 ## 💡 Fun Fact
 
-> 💡 **Code. Learn. Build. Repeat.**
-
 <div align="center">
 
+> 💡 **Code. Learn. Build. Repeat.**
+
 ### ⭐ Building intelligent systems with AI, Machine Learning & Modern Software Engineering.
+
+</div>
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"/>
 
