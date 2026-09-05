@@ -42,6 +42,7 @@ AI Engineer • Machine Learning Engineer • Generative AI • Agentic AI
 - 🧠 Strengthening expertise in **Machine Learning and Deep Learning**
 - ⚙️ Building scalable applications with **Modern Software Engineering practices**
 
+---
 
 # 🛠️ Tech Stack
 
@@ -173,7 +174,7 @@ I continuously enhance my technical skills through professional learning in **AI
 **GUVI — Zen Class Full Stack Developer Program**
 📅 April 2024 – June 2024 · [🔗 Verify Certificate](https://www.guvi.in/verify-certificate?id=1u7X6Li2h1F65181P5)
 
-
+---
 
 ## 🧮 LeetCode Stats
 
