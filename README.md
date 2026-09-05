@@ -34,11 +34,13 @@ AI Engineer • Machine Learning Engineer • Generative AI • Agentic AI
 
 <table align="center" width="100%">
 
+<!-- ================= ROW 1 ================= -->
+
 <tr>
 
-<td align="center" width="33%">
+<td align="center" valign="top" width="33.33%">
 
-### 🤖 Generative Artificial Intelligence
+### 🤖 Generative AI
 
 <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square" />
 <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=flat-square" />
@@ -52,13 +54,13 @@ AI Engineer • Machine Learning Engineer • Generative AI • Agentic AI
 </td>
 
 
-<td align="center" width="33%">
+<td align="center" valign="top" width="33.33%">
 
-### 🧩 Agentic Artificial Intelligence
+### 🧩 Agentic AI
 
 <img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=flat-square" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
+<img src="https://img.shields.io/badge/LangGraph-2C3E50?style=flat-square" />
 
 <br/>
 
@@ -69,7 +71,7 @@ AI Engineer • Machine Learning Engineer • Generative AI • Agentic AI
 </td>
 
 
-<td align="center" width="33%">
+<td align="center" valign="top" width="33.33%">
 
 ### 🧠 Machine Learning
 
@@ -86,66 +88,35 @@ AI Engineer • Machine Learning Engineer • Generative AI • Agentic AI
 </tr>
 
 
+<!-- ================= ROW 2 ================= -->
+
 <tr>
 
-<td align="center">
+<td align="center" valign="top" width="33.33%">
 
 ### 📊 Data Science
 
 <img
-title="Pandas"
-alt="Pandas"
-width="36"
-src="https://skillicons.dev/icons?i=pandas"
-/>
-
-&nbsp;
-
-<img
-title="NumPy"
-alt="NumPy"
-width="36"
-src="https://skillicons.dev/icons?i=numpy"
+src="https://skillicons.dev/icons?i=pandas,numpy"
+height="42"
 />
 
 <br/>
 
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
-
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" />
-
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 
 </td>
 
 
-<td align="center">
+<td align="center" valign="top" width="33.33%">
 
 ### 🤖 AI & ML Frameworks
 
 <img
-title="TensorFlow"
-alt="TensorFlow"
-width="36"
-src="https://skillicons.dev/icons?i=tensorflow"
-/>
-
-&nbsp;
-
-<img
-title="PyTorch"
-alt="PyTorch"
-width="36"
-src="https://skillicons.dev/icons?i=pytorch"
-/>
-
-&nbsp;
-
-<img
-title="Scikit-learn"
-alt="Scikit-learn"
-width="36"
-src="https://skillicons.dev/icons?i=sklearn"
+src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn"
+height="42"
 />
 
 <br/>
@@ -153,7 +124,7 @@ src="https://skillicons.dev/icons?i=sklearn"
 <img
 title="Keras"
 alt="Keras"
-width="36"
+height="42"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg"
 />
 
@@ -162,53 +133,33 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg
 <img
 title="OpenCV"
 alt="OpenCV"
-width="36"
+height="42"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"
 />
 
 <br/>
 
-<img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square" />
+<img
+src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square"
+/>
 
 </td>
 
 
-<td align="center">
+<td align="center" valign="top" width="33.33%">
 
 ### 🐍 Programming
 
 <img
-title="Python"
-alt="Python"
-width="36"
-src="https://skillicons.dev/icons?i=python"
+src="https://skillicons.dev/icons?i=python,javascript"
+height="42"
 />
 
 &nbsp;
 
 <img
-title="JavaScript"
-alt="JavaScript"
-width="36"
-src="https://skillicons.dev/icons?i=javascript"
-/>
-
-&nbsp;
-
-<img
-title="SQL"
-alt="SQL"
-width="36"
-src="https://skillicons.dev/icons?i=mysql"
-/>
-
-&nbsp;
-
-<img
-title="Linux"
-alt="Linux"
-width="36"
-src="https://skillicons.dev/icons?i=linux"
+src="https://skillicons.dev/icons?i=mysql,linux"
+height="42"
 />
 
 </td>
@@ -216,126 +167,64 @@ src="https://skillicons.dev/icons?i=linux"
 </tr>
 
 
+<!-- ================= ROW 3 ================= -->
+
 <tr>
 
-<td align="center">
+<td align="center" valign="top" width="33.33%">
 
 ### 🌐 Full Stack Development
 
 <img
-title="React"
-alt="React"
-width="36"
-src="https://skillicons.dev/icons?i=react"
-/>
-
-&nbsp;
-
-<img
-title="Node.js"
-alt="Node.js"
-width="36"
-src="https://skillicons.dev/icons?i=nodejs"
-/>
-
-&nbsp;
-
-<img
-title="Express.js"
-alt="Express.js"
-width="36"
-src="https://skillicons.dev/icons?i=express"
+src="https://skillicons.dev/icons?i=react,nodejs,express"
+height="42"
 />
 
 <br/>
 
 <img
-title="Django"
-alt="Django"
-width="36"
-src="https://skillicons.dev/icons?i=django"
-/>
-
-&nbsp;
-
-<img
-title="FastAPI"
-alt="FastAPI"
-width="36"
-src="https://skillicons.dev/icons?i=fastapi"
+src="https://skillicons.dev/icons?i=django,fastapi"
+height="42"
 />
 
 </td>
 
 
-<td align="center">
+<td align="center" valign="top" width="33.33%">
 
-### 🗄️ Databases & Cloud Computing
-
-<img
-title="MongoDB"
-alt="MongoDB"
-width="36"
-src="https://skillicons.dev/icons?i=mongodb"
-/>
-
-&nbsp;
+### 🗄️ Databases & Cloud
 
 <img
-title="MySQL"
-alt="MySQL"
-width="36"
-src="https://skillicons.dev/icons?i=mysql"
-/>
-
-&nbsp;
-
-<img
-title="PostgreSQL"
-alt="PostgreSQL"
-width="36"
-src="https://skillicons.dev/icons?i=postgres"
+src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"
+height="42"
 />
 
 <br/>
 
-<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+<img
+src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white"
+/>
 
 </td>
 
 
-<td align="center">
+<td align="center" valign="top" width="33.33%">
 
 ### ⚙️ MLOps & Infrastructure
 
 <img
-title="Docker"
-alt="Docker"
-width="36"
-src="https://skillicons.dev/icons?i=docker"
+src="https://skillicons.dev/icons?i=docker,terraform"
+height="42"
 />
 
-&nbsp;
+<br/>
 
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square" />
-
-&nbsp;
-
 <img src="https://img.shields.io/badge/DVC-945DD6?style=flat-square" />
 
 <br/>
 
-<img
-title="Terraform"
-alt="Terraform"
-width="36"
-src="https://skillicons.dev/icons?i=terraform"
-/>
-
-&nbsp;
-
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
 
 </td>
@@ -343,7 +232,6 @@ src="https://skillicons.dev/icons?i=terraform"
 </tr>
 
 </table>
-
 ---
 
 # 🎓 Certifications
