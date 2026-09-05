@@ -161,30 +161,6 @@ AI Engineer • Machine Learning Engineer • Generative AI • Agentic AI
 
 # 🎓 Certifications
 
-### 🤖 Artificial Intelligence & Machine Learning
-
-**GUVI — Artificial Intelligence and Machine Learning Course**
-
-Issued: July 2025
-
-<a href="https://www.guvi.in/verify-certificate?id=27w6441zV18U3Pu3j8">
-🔗 Verify Certificate
-</a>
-
-<br/>
-
-### 💻 Full Stack Development
-
-**GUVI — Zen Class Full Stack Developer Program**
-
-Program Period: April 2024 – June 2024
-
-<a href="https://www.guvi.in/verify-certificate?id=1u7X6Li2h1F65181P5">
-🔗 Verify Certificate
-</a>
-
-# 🎓 Certifications
-
 I continuously enhance my technical skills through professional learning in **AI, Machine Learning, and Full Stack Development**.
 
 ### 🤖 Artificial Intelligence & Machine Learning
