@@ -32,6 +32,7 @@ AI Engineer • Machine Learning Engineer • Generative AI • Agentic AI
 
 <br clear="right"/>
 
+---
 
 # 🚀 Current Focus
 
@@ -181,6 +182,13 @@ Program Period: April 2024 – June 2024
 <a href="https://www.guvi.in/verify-certificate?id=1u7X6Li2h1F65181P5">
 🔗 Verify Certificate
 </a>
+
+# 🎓 Certifications
+
+| 🏆 Certification                                           | 🏢 Issued By | 📅 Date / Period       | 🔗 Verification                                                                    |
+| ---------------------------------------------------------- | ------------ | ---------------------- | ---------------------------------------------------------------------------------- |
+| 🤖 **Artificial Intelligence and Machine Learning Course** | GUVI         | July 2025              | [Verify Certificate](https://www.guvi.in/verify-certificate?id=27w6441zV18U3Pu3j8) |
+| 💻 **Zen Class Full Stack Developer Program**              | GUVI         | April 2024 – June 2024 | [Verify Certificate](https://www.guvi.in/verify-certificate?id=1u7X6Li2h1F65181P5) |
 
 
 ## 🧮 LeetCode Stats
