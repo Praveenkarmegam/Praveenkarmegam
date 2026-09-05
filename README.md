@@ -8,11 +8,9 @@ AI Engineer • Machine Learning Engineer • Generative AI • Agentic AI
 
 ---
 
-# 👨‍💻 About Me
+<img align="right" width="320" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 
-<table>
-<tr>
-<td valign="top" width="65%">
+# 👨‍💻 About Me
 
 🎓 B.Tech Graduate specializing in **Artificial Intelligence & Data Science**.
 
@@ -28,19 +26,9 @@ AI Engineer • Machine Learning Engineer • Generative AI • Agentic AI
 
 🚀 Continuously growing as an **AI Engineer and Machine Learning Engineer**, with a focus on building scalable and impactful AI applications.
 
-🌐 **Portfolio:**  
-https://kpraveen.netlify.app
-
-</td>
-
-<td align="center" valign="middle" width="35%">
-
-<img width="320" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
-
-</td>
-</tr>
-</table>
-
+🌐 Portfolio:  
+**https://kpraveen.netlify.app**
+<br clear="right"/>
 ---
 ---
 
