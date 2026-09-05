@@ -192,16 +192,13 @@ Program Period: April 2024 – June 2024
 
 ---
 
-# 🧮 LeetCode Stats
+## 🧮 LeetCode Stats
 
 <p align="center">
 
 <a href="https://leetcode.com/u/Praveen_K_/">
 
-<img
-src="https://leetcard.jacoblin.cool/Praveen_K_?theme=dark&font=Baloo&ext=contest"
-alt="Praveen's LeetCode Stats"
-/>
+<img src="https://leetcard.jacoblin.cool/Praveen_K_?theme=dark&font=Baloo&ext=contest"/>
 
 </a>
 
