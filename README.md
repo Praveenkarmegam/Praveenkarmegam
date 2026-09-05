@@ -206,80 +206,44 @@ Program Period: April 2024 – June 2024
 
 ---
 
-# 💡 Fun Fact
+## 💬 Random Dev Quote
 
 <p align="center">
 
-💡 <b>Code. Learn. Build. Repeat.</b>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </p>
 
----
-
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
-
-<a href="https://kpraveen.netlify.app/">
-  <img
-    title="Portfolio"
-    alt="Portfolio"
-    width="40"
-    height="40"
-    src="https://cdn.simpleicons.org/vercel"
-  />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/itspraveenk/">
-  <img
-    title="LinkedIn"
-    alt="LinkedIn"
-    width="40"
-    height="40"
-    src="https://cdn.simpleicons.org/linkedin"
-  />
-</a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:kpraveenhosur@gmail.com">
-  <img
-    title="Email"
-    alt="Email"
-    width="40"
-    height="40"
-    src="https://cdn.simpleicons.org/gmail"
-  />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/itspraveenk">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
 <a href="https://github.com/Praveenkarmegam">
-  <img
-    title="GitHub"
-    alt="GitHub"
-    width="40"
-    height="40"
-    src="https://cdn.simpleicons.org/github"
-  />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://kpraveen.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </p>
 
----
+## 💡 Fun Fact
 
-<p align="center">
-
-⭐ Building intelligent systems with AI, Machine Learning & Modern Software Engineering.
-
-</p>
+> 💡 **Code. Learn. Build. Repeat.**
 
 <div align="center">
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"
-/>
+### ⭐ Building intelligent systems with AI, Machine Learning & Modern Software Engineering.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"/>
 
 </div>
