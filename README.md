@@ -185,10 +185,18 @@ Program Period: April 2024 – June 2024
 
 # 🎓 Certifications
 
-| 🏆 Certification                                           | 🏢 Issued By | 📅 Date / Period       | 🔗 Verification                                                                    |
-| ---------------------------------------------------------- | ------------ | ---------------------- | ---------------------------------------------------------------------------------- |
-| 🤖 **Artificial Intelligence and Machine Learning Course** | GUVI         | July 2025              | [Verify Certificate](https://www.guvi.in/verify-certificate?id=27w6441zV18U3Pu3j8) |
-| 💻 **Zen Class Full Stack Developer Program**              | GUVI         | April 2024 – June 2024 | [Verify Certificate](https://www.guvi.in/verify-certificate?id=1u7X6Li2h1F65181P5) |
+I continuously enhance my technical skills through professional learning in **AI, Machine Learning, and Full Stack Development**.
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+**GUVI — Artificial Intelligence and Machine Learning Course**
+📅 July 2025 · [🔗 Verify Certificate](https://www.guvi.in/verify-certificate?id=27w6441zV18U3Pu3j8)
+
+### 💻 Full Stack Development
+
+**GUVI — Zen Class Full Stack Developer Program**
+📅 April 2024 – June 2024 · [🔗 Verify Certificate](https://www.guvi.in/verify-certificate?id=1u7X6Li2h1F65181P5)
+
 
 
 ## 🧮 LeetCode Stats
