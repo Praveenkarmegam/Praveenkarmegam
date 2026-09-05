@@ -41,7 +41,7 @@ AI Engineer • Machine Learning Engineer • Generative AI • Agentic AI
 - 🧠 Strengthening expertise in **Machine Learning and Deep Learning**
 - ⚙️ Building scalable applications with **Modern Software Engineering practices**
 
----
+
 
 # 🛠️ Tech Stack
 
@@ -214,7 +214,7 @@ Program Period: April 2024 – June 2024
 
 </p>
 
----
+
 
 ## 💬 Random Dev Quote
 
@@ -224,7 +224,7 @@ Program Period: April 2024 – June 2024
 
 </p>
 
----
+
 
 ## 🤝 Connect With Me
 
@@ -244,7 +244,7 @@ Program Period: April 2024 – June 2024
 
 </p>
 
----
+
 
 ## 💡 Fun Fact
 
