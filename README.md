@@ -4,35 +4,30 @@
 AI Engineer • Machine Learning Engineer • Generative AI • Agentic AI
 </h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Praveenkarmegam&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 ---
+<img align="right" width="320" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 
-<div align="center">
+## 👨‍💻 About Me
 
-<h3>
-AI Engineer | Machine Learning Engineer | Generative AI | Agentic AI
-</h3>
+🎓 **B.Tech – Artificial Intelligence & Data Science (2022 – 2026)**
 
-<img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="AI Coding" width="320" />
+🔭 Currently seeking **AI/ML Engineer Opportunities**
 
-<p>👋 Hi, I'm <strong>Praveen K</strong></p>
+🧠 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, NLP & Generative AI**
 
-<p>🎓 B.Tech Graduate specializing in <strong>Artificial Intelligence & Data Science</strong></p>
+💻 Experienced in building **AI-powered Full Stack Applications**
 
-<p>🤖 Building intelligent, real-world solutions using <strong>Machine Learning, Deep Learning, Generative AI and Large Language Models (LLMs)</strong></p>
+☁️ Interested in **Cloud Computing, AI Agents & Intelligent Systems**
 
-<p>🧩 Exploring <strong>Agentic AI, AI Agents, Tool Calling, LangGraph and Multi-Agent Systems</strong></p>
+🌐 Portfolio:
+**https://kpraveen.netlify.app**
 
-<p>🔍 Working with <strong>RAG, Vector Databases, Semantic Search and Prompt Engineering</strong> to develop intelligent AI applications</p>
+<br clear="right"/>
 
-<p>⚙️ Combining <strong>AI Engineering and Software Development</strong> using Python, Django, FastAPI and modern APIs</p>
 
-<p>📊 Applying <strong>Data Science and Machine Learning</strong> to transform data into practical, intelligent solutions</p>
-
-<p>🚀 Focused on building <strong>scalable, practical and impactful AI applications</strong></p>
-
-<p>🌐 Portfolio: <strong>https://kpraveen.netlify.app</strong></p>
-
-</div>
 ---
 
 # 🚀 Current Focus
