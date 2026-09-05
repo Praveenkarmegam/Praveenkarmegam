@@ -31,105 +31,6 @@ AI Engineer • Machine Learning Engineer • Generative AI • Agentic AI
 ---
 
 
-## 🛠️ Tech Stack
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🤖 Generative Artificial Intelligence
-
-<img src="https://skillicons.dev/icons?i=openai,huggingface" />
-
-`LLMs` · `Generative AI` · `RAG` · `Vector Databases` · `Prompt Engineering`
-
-</td>
-
-<td align="center" width="33%">
-
-### 🧩 Agentic Artificial Intelligence
-
-<img src="https://skillicons.dev/icons?i=langchain" />
-
-`AI Agents` · `LangGraph` · `CrewAI` · `ReAct` · `Tool Calling`
-
-</td>
-
-<td align="center" width="33%">
-
-### 🧠 Machine Learning
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-
-`Machine Learning` · `Deep Learning` · `NLP` · `Computer Vision`
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### 📊 Data Science
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-`Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Power BI`
-
-</td>
-
-<td align="center">
-
-### 🧰 AI & ML Frameworks
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-
-`TensorFlow` · `PyTorch` · `Scikit-learn` · `Keras` · `Hugging Face` · `OpenCV`
-
-</td>
-
-<td align="center">
-
-### 🐍 Programming
-
-<img src="https://skillicons.dev/icons?i=python,js,linux" />
-
-`Python` · `JavaScript` · `SQL` · `Linux`
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### 🌐 Full Stack Development
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,fastapi" />
-
-`React` · `Node.js` · `Express.js` · `Django` · `FastAPI`
-
-</td>
-
-<td align="center">
-
-### 🗄️ Databases & Cloud Computing
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws" />
-
-`MongoDB` · `MySQL` · `PostgreSQL` · `AWS EC2`
-
-</td>
-
-<td align="center">
-
-### ⚙️ MLOps & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=docker,terraform,prometheus,grafana" />
-
-`Docker` · `MLflow` · `DVC` · `Terraform` · `Prometheus` · `Grafana`
-
-</td>
-</tr>
-</table>
 # 🛠️ Tech Stack
 
 <table align="center" width="100%">
@@ -153,7 +54,6 @@ AI Engineer • Machine Learning Engineer • Generative AI • Agentic AI
 
 </td>
 
-
 <td align="center" valign="top" width="33.33%">
 
 ### 🧩 Agentic AI
@@ -170,7 +70,6 @@ AI Engineer • Machine Learning Engineer • Generative AI • Agentic AI
 
 </td>
 
-
 <td align="center" valign="top" width="33.33%">
 
 ### 🧠 Machine Learning
@@ -186,7 +85,6 @@ AI Engineer • Machine Learning Engineer • Generative AI • Agentic AI
 </td>
 
 </tr>
-
 
 <!-- ================= ROW 2 ================= -->
 
@@ -208,7 +106,6 @@ height="42"
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 
 </td>
-
 
 <td align="center" valign="top" width="33.33%">
 
@@ -245,7 +142,6 @@ src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square"
 
 </td>
 
-
 <td align="center" valign="top" width="33.33%">
 
 ### 🐍 Programming
@@ -255,7 +151,7 @@ src="https://skillicons.dev/icons?i=python,javascript"
 height="42"
 />
 
-&nbsp;
+<br/>
 
 <img
 src="https://skillicons.dev/icons?i=mysql,linux"
@@ -265,7 +161,6 @@ height="42"
 </td>
 
 </tr>
-
 
 <!-- ================= ROW 3 ================= -->
 
@@ -289,7 +184,6 @@ height="42"
 
 </td>
 
-
 <td align="center" valign="top" width="33.33%">
 
 ### 🗄️ Databases & Cloud
@@ -306,7 +200,6 @@ src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaw
 />
 
 </td>
-
 
 <td align="center" valign="top" width="33.33%">
 
@@ -332,7 +225,6 @@ height="42"
 </tr>
 
 </table>
----
 
 # 🎓 Certifications
 
