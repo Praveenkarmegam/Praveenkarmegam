@@ -26,9 +26,9 @@ AI Engineer • Machine Learning Engineer • Generative AI • Agentic AI
 
 🚀 Continuously growing as an **AI Engineer and Machine Learning Engineer**, with a focus on building scalable and impactful AI applications.
 
-🌐 Portfolio:  
-**https://kpraveen.netlify.app**
-<br clear="right"/>
+🌐 **Portfolio:**  
+https://kpraveen.netlify.app
+
 ---
 ---
 
