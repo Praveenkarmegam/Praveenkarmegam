@@ -5,19 +5,19 @@ AI Engineer • Machine Learning Engineer • Generative AI • Agentic AI
 </h3>
 
 <p align="center">
-  <a href="https://kpraveen.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/itspraveenk/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:kpraveenhosur@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Praveenkarmegam&label=Profile%20Views&color=0e75b6&style=flat" />
+<a href="https://kpraveen.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/itspraveenk/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:kpraveenhosur@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </p>
 
 ---
@@ -48,9 +48,9 @@ AI Engineer • Machine Learning Engineer • Generative AI • Agentic AI
 
 # 🛠️ Tech Stack
 
-## 🤖 AI & Machine Learning Expertise
-
 <table align="center" width="100%">
+
+<!-- ROW 1 -->
 
 <tr>
 
@@ -61,30 +61,18 @@ AI Engineer • Machine Learning Engineer • Generative AI • Agentic AI
 <br/>
 
 <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=for-the-badge" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Vector_Databases-00897B?style=for-the-badge" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Prompt_Engineering-1976D2?style=for-the-badge" />
-
 <br/><br/>
 
-<img title="Hugging Face" alt="Hugging Face" width="45" src="https://cdn.simpleicons.org/huggingface" />
+<img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge" />
+<br/><br/>
 
-&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" />
+<br/><br/>
 
-<img title="OpenAI" alt="OpenAI" width="45" src="https://cdn.simpleicons.org/openai/white" />
+<img src="https://img.shields.io/badge/Vector_Databases-00897B?style=for-the-badge" />
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Prompt_Engineering-1976D2?style=for-the-badge" />
 
 <br/><br/>
 
@@ -98,26 +86,21 @@ AI Engineer • Machine Learning Engineer • Generative AI • Agentic AI
 <br/>
 
 <img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=for-the-badge" />
-
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+<br/><br/>
 
-<br/>
+<img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge" />
+<br/><br/>
 
-<img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ReAct-5C6BC0?style=for-the-badge" />
+<br/><br/>
 
-<br/>
-
-<img src="https://img.shields.io/badge/ReAct_Agents-FF5722?style=for-the-badge" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Tool_Calling-0066CC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Tool_Calling-00897B?style=for-the-badge" />
 
 <br/><br/>
 
@@ -131,22 +114,15 @@ AI Engineer • Machine Learning Engineer • Generative AI • Agentic AI
 <br/>
 
 <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Deep_Learning-7C3AED?style=for-the-badge" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/NLP-00897B?style=for-the-badge" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Computer_Vision-1976D2?style=for-the-badge" />
-
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv" />
+<img src="https://img.shields.io/badge/Deep_Learning-E91E63?style=for-the-badge" />
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Natural_Language_Processing-3949AB?style=for-the-badge" />
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Computer_Vision-00838F?style=for-the-badge" />
 
 <br/><br/>
 
@@ -154,39 +130,105 @@ AI Engineer • Machine Learning Engineer • Generative AI • Agentic AI
 
 </tr>
 
-</table>
 
----
-
-## 🔬 AI & Data Tools
-
-<table align="center" width="100%">
+<!-- ROW 2 -->
 
 <tr>
 
-<td align="center" width="33%">
+<td align="center">
 
-### 🧠 Deep Learning & ML
+### 📊 Data Science
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+<img
+title="Pandas"
+alt="Pandas"
+width="45"
+src="https://skillicons.dev/icons?i=pandas"
+/>
+
+&nbsp;
+
+<img
+title="NumPy"
+alt="NumPy"
+width="45"
+src="https://skillicons.dev/icons?i=numpy"
+/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+<br/><br/>
+
+</td>
+
+
+<td align="center">
+
+### 🤖 AI & ML Frameworks
+
+<br/>
+
+<img
+title="TensorFlow"
+alt="TensorFlow"
+width="45"
+src="https://skillicons.dev/icons?i=tensorflow"
+/>
+
+&nbsp;
+
+<img
+title="PyTorch"
+alt="PyTorch"
+width="45"
+src="https://skillicons.dev/icons?i=pytorch"
+/>
+
+&nbsp;
+
+<img
+title="Scikit-learn"
+alt="Scikit-learn"
+width="45"
+src="https://skillicons.dev/icons?i=sklearn"
+/>
 
 <br/><br/>
 
 <img
 title="Keras"
 alt="Keras"
-width="48"
+width="45"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg"
 />
 
-&nbsp;&nbsp;
+&nbsp;
+
+<img
+title="Hugging Face"
+alt="Hugging Face"
+width="45"
+src="https://img.shields.io/badge/🤗-Hugging_Face-FFD21E?style=for-the-badge"
+/>
+
+<br/><br/>
 
 <img
 title="OpenCV"
 alt="OpenCV"
-width="48"
+width="45"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"
 />
 
@@ -195,144 +237,44 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.s
 </td>
 
 
-<td align="center" width="33%">
-
-### 📊 Data Science
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-<br/><br/>
-
-<img
-title="NumPy"
-alt="NumPy"
-width="48"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
-/>
-
-&nbsp;&nbsp;
-
-<img
-title="Pandas"
-alt="Pandas"
-width="48"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
-/>
-
-&nbsp;&nbsp;
-
-<img
-title="Matplotlib"
-alt="Matplotlib"
-width="48"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"
-/>
-
-<br/><br/>
-
-<img
-title="Power BI"
-alt="Power BI"
-src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
-/>
-
-<br/><br/>
-
-</td>
-
-
-<td align="center" width="33%">
-
-### 🗄️ Data & Vector Systems
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
-
-<br/><br/>
-
-<img
-title="Neo4j"
-alt="Neo4j"
-width="48"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg"
-/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Vector_Databases-00897B?style=for-the-badge" />
-
-<br/><br/>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-## ⚙️ Software Engineering Stack
-
-<table align="center" width="100%">
-
-<tr>
-
-<td align="center" width="33%">
+<td align="center">
 
 ### 🐍 Programming
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,javascript" />
+<img
+title="Python"
+alt="Python"
+width="45"
+src="https://skillicons.dev/icons?i=python"
+/>
 
-<br/><br/>
+&nbsp;
+
+<img
+title="JavaScript"
+alt="JavaScript"
+width="45"
+src="https://skillicons.dev/icons?i=javascript"
+/>
+
+&nbsp;
 
 <img
 title="SQL"
 alt="SQL"
-src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"
+width="45"
+src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
 />
 
-<br/><br/>
-
-</td>
-
-
-<td align="center" width="33%">
-
-### 🌐 Full Stack Development
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
-
-<br/><br/>
-
-</td>
-
-
-<td align="center" width="33%">
-
-### 🗄️ Databases
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-
-<br/><br/>
+&nbsp;
 
 <img
-title="Neo4j"
-alt="Neo4j"
-width="48"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg"
+title="Linux"
+alt="Linux"
+width="45"
+src="https://skillicons.dev/icons?i=linux"
 />
 
 <br/><br/>
@@ -341,60 +283,161 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg
 
 </tr>
 
+
+<!-- ROW 3 -->
+
 <tr>
 
-<td align="center" width="33%">
+<td align="center">
 
-### ☁️ Cloud
+### 🌐 Full Stack Development
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=aws" />
+<img
+title="React"
+alt="React"
+width="45"
+src="https://skillicons.dev/icons?i=react"
+/>
+
+&nbsp;
+
+<img
+title="Node.js"
+alt="Node.js"
+width="45"
+src="https://skillicons.dev/icons?i=nodejs"
+/>
+
+&nbsp;
+
+<img
+title="Express.js"
+alt="Express.js"
+width="45"
+src="https://skillicons.dev/icons?i=express"
+/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Cloud_Deployment-4285F4?style=for-the-badge" />
+<img
+title="Django"
+alt="Django"
+width="45"
+src="https://skillicons.dev/icons?i=django"
+/>
+
+&nbsp;
+
+<img
+title="FastAPI"
+alt="FastAPI"
+width="45"
+src="https://skillicons.dev/icons?i=fastapi"
+/>
 
 <br/><br/>
 
 </td>
 
 
-<td align="center" width="33%">
+<td align="center">
 
-### 🐳 Infrastructure
+### 🗄️ Databases & Cloud Computing
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=docker,linux" />
+<img
+title="MongoDB"
+alt="MongoDB"
+width="45"
+src="https://skillicons.dev/icons?i=mongodb"
+/>
+
+&nbsp;
+
+<img
+title="MySQL"
+alt="MySQL"
+width="45"
+src="https://skillicons.dev/icons?i=mysql"
+/>
+
+&nbsp;
+
+<img
+title="PostgreSQL"
+alt="PostgreSQL"
+width="45"
+src="https://skillicons.dev/icons?i=postgres"
+/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+<br/><br/>
+
+</td>
+
+
+<td align="center">
+
+### ⚙️ MLOps & Infrastructure
+
+<br/>
+
+<img
+title="Docker"
+alt="Docker"
+width="45"
+src="https://skillicons.dev/icons?i=docker"
+/>
+
+&nbsp;
+
+<img
+title="MLflow"
+alt="MLflow"
+width="45"
+src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"
+/>
+
+&nbsp;
+
+<img
+title="DVC"
+alt="DVC"
+width="45"
+src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge"
+/>
 
 <br/><br/>
 
 <img
 title="Terraform"
 alt="Terraform"
-src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"
+width="45"
+src="https://skillicons.dev/icons?i=terraform"
 />
 
 <br/><br/>
 
-</td>
-
-
-<td align="center" width="33%">
-
-### 🛠️ Developer Tools
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img
+title="Prometheus"
+alt="Prometheus"
+width="45"
+src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"
+/>
 
 <br/><br/>
 
 <img
-title="Google Colab"
-alt="Google Colab"
-src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"
+title="Grafana"
+alt="Grafana"
+width="45"
+src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"
 />
 
 <br/><br/>
@@ -409,26 +452,26 @@ src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=g
 
 # 🎓 Certifications
 
-## 🤖 Artificial Intelligence & Machine Learning
+### 🤖 Artificial Intelligence & Machine Learning
 
 **GUVI — Artificial Intelligence and Machine Learning Course**
 
-📅 Issued: July 2025
+Issued: July 2025
 
 <a href="https://www.guvi.in/verify-certificate?id=27w6441zV18U3Pu3j8">
-🔗 Verify Certificate
+  🔗 Verify Certificate
 </a>
 
 <br/>
 
-## 💻 Full Stack Development
+### 💻 Full Stack Development
 
 **GUVI — Zen Class Full Stack Developer Program**
 
-📅 Program Period: April 2024 – June 2024
+Program Period: April 2024 – June 2024
 
 <a href="https://www.guvi.in/verify-certificate?id=1u7X6Li2h1F65181P5">
-🔗 Verify Certificate
+  🔗 Verify Certificate
 </a>
 
 ---
@@ -441,7 +484,7 @@ src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=g
 
 <img
 src="https://leetcard.jacoblin.cool/Praveen_K_?theme=dark&font=Baloo&ext=contest"
-alt="LeetCode Stats"
+alt="Praveen's LeetCode Stats"
 />
 
 </a>
