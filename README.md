@@ -32,8 +32,6 @@ AI Engineer • Machine Learning Engineer • Generative AI • Agentic AI
 
 <br clear="right"/>
 
----
-
 
 # 🚀 Current Focus
 
@@ -42,8 +40,6 @@ AI Engineer • Machine Learning Engineer • Generative AI • Agentic AI
 - 🔗 Developing intelligent **RAG systems using Vector Databases and Embeddings**
 - 🧠 Strengthening expertise in **Machine Learning and Deep Learning**
 - ⚙️ Building scalable applications with **Modern Software Engineering practices**
-
----
 
 
 # 🛠️ Tech Stack
@@ -177,7 +173,7 @@ AI Engineer • Machine Learning Engineer • Generative AI • Agentic AI
 </tr>
 </table>
 
----
+
 
 # 🎓 Certifications
 
@@ -203,7 +199,7 @@ Program Period: April 2024 – June 2024
 🔗 Verify Certificate
 </a>
 
----
+
 
 ## 🧮 LeetCode Stats
 
@@ -217,7 +213,7 @@ Program Period: April 2024 – June 2024
 
 </p>
 
----
+
 
 ## 💬 Random Dev Quote
 
